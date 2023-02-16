@@ -20,10 +20,9 @@ import folium
 #-----lectura del dataset--------------------------------------------------------------------------
 lang = pd.read_csv('lang.csv')
 coord = pd.read_csv('coord.csv') 
-dflang = pd.read_csv('SignLanguage\TerritoryLanguage.txt')
+dflang = pd.read_csv('TerritoryLanguage.txt')
+sl_train = pd.read_csv('sign_mnist_train.csv')
 
-sl_train = pd.read_csv('SignLanguage\sign_mnist_train.csv')
-sl_test = pd.read_csv('SignLanguage\sign_mnist_test.csv')
 
 #-----configuracion de página--------------------------------------------------------------------------
 
@@ -233,7 +232,7 @@ with bloques[2]:
     st.markdown("")
 
     st.markdown("<h5>Mostramos el número total de países que se hablan los idiomas más populares</h5>", unsafe_allow_html=True)
-    i1 = Image.open('graficos/i1.png')
+    i1 = Image.open('i1.png')
     st.image(i1)
     st.markdown('**Vemos claramente como el inglés es el idioma internacional**.')
 
@@ -257,7 +256,7 @@ with bloques[2]:
     st.markdown("")
 
     st.markdown("<h5>Mostramos el número total de hablantes de los idioma más populares</h5>", unsafe_allow_html=True)
-    i2 = Image.open('graficos/i2.png')
+    i2 = Image.open('i2.png')
     st.image(i2)
     st.markdown('**Ahora vemos que en términos de población el inglés se ve superado por el chino**.')
 
@@ -287,7 +286,7 @@ Trabajaremos con dos datasets, Train y Test.</h6>''', unsafe_allow_html=True)
     st.markdown("")
 
     st.markdown("<h5>Mostramos ahora una fila del dataframe Train en formato imagen pasando de un array 1D a 2D.</h5>", unsafe_allow_html=True)
-    i3 = Image.open('graficos/i3.png')
+    i3 = Image.open('i3.png')
     st.image(i3)
 
     with st.expander("Código"):
@@ -315,7 +314,7 @@ Uno de los casos de uso de PCA es que se puede usar para la compresión de imág
 
     st.markdown("<h5>Creamos un grafico que nos mostrará la varianza en función del número de componentes de un análisis de componentes principales (PCA).</h5>", unsafe_allow_html=True)
     
-    i4 = Image.open('graficos/i4.png')
+    i4 = Image.open('i4.png')
     st.image(i4)
     st.markdown("Vemos que cuando el número de componentes llega a los ``400`` se estabiliza y los datos ya tienden al 100% de la explicación de la varianza.")
 
@@ -324,7 +323,7 @@ Uno de los casos de uso de PCA es que se puede usar para la compresión de imág
 
     st.markdown("<h5>Probamos ahora utilizar una PCA con diferentes componentes</h5>", unsafe_allow_html=True)
 
-    i5 = Image.open('graficos/i5.png')
+    i5 = Image.open('i5.png')
     st.image(i5)
     st.markdown('''Confirmamos que si existe diferencia en la calidad de la imagen dependiendo del número de componentes.
 
@@ -346,7 +345,7 @@ Nos parece una buena opción tomar como referencia ``400`` como el número de co
 
     st.markdown("<h5>Comparación de los modelos</h5>", unsafe_allow_html=True)
     
-    i6 = Image.open('graficos/i6.png')
+    i6 = Image.open('i6.png')
     st.image(i6)
     st.markdown('''Primero comentar que como la variable que queremos predecir es una **``variable cualitativa``** todos los modelos utilizados son de **``clasificación``**.
 
@@ -358,7 +357,7 @@ El medolo que nos da una mejor precisión es el SVM aun que es el que más tiemp
     st.markdown("")
     st.markdown("<h5>Imagénes del propio dataset</h5>", unsafe_allow_html=True)
 
-    i7 = Image.open('graficos/i7.png')
+    i7 = Image.open('i7.png')
     st.image(i7)
 
     st.markdown("")
@@ -366,7 +365,7 @@ El medolo que nos da una mejor precisión es el SVM aun que es el que más tiemp
 
     st.markdown("<h5>Imágenes própias</h5>", unsafe_allow_html=True)
 
-    i8 = Image.open('graficos/i8.png')
+    i8 = Image.open('i8.png')
     st.image(i8)
 
     st.markdown("")
