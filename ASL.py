@@ -30,7 +30,7 @@ st.set_page_config(page_title='Idiomas x el mundo', layout='centered', page_icon
 
 #-----empieza la app-----------------------------------------------------------------------------------
 st.markdown("<h1 style='text-align: center; '>Proyecto Final</h1>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; '>Idiomas por el mundo</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; '>Data analysis y Data science con lenguajes</h1>", unsafe_allow_html=True)
 st.image("https://www.avantilanguageschool.com/wp-content/uploads/2015/03/bandera-idiomas.jpg")
 st.text("Fuente imagen: https://www.avantilanguageschool.com/")
 
