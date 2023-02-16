@@ -105,7 +105,7 @@ from sklearn.decomposition import PCA # Análisis de componentes principales''')
 
     #-----Dataset utilizado-----------
     st.markdown("##### El dataset utilizado esta en este [link](https://unicode-org.github.io/cldr-staging/charts/38/supplemental/territory_language_information.html)")
-    dataset = Image.open('graficos/dataset.png')
+    dataset = Image.open('dataset.png')
     st.image(dataset)
 
 
