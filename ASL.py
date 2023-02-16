@@ -231,7 +231,7 @@ with bloques[2]:
     st.markdown("<h2>Análisis exploratorio</h2>", unsafe_allow_html=True)
     st.markdown("")
 
-    st.markdown("<h5>Mostramos el número total de países que se hablan los idiomas más populares</h5>", unsafe_allow_html=True)
+    st.markdown("<h5>Mostramos el número total de países dónde se hablan los idiomas más populares</h5>", unsafe_allow_html=True)
     i1 = Image.open('i1.png')
     st.image(i1)
     st.markdown('**Vemos claramente como el inglés es el idioma internacional**.')
@@ -239,7 +239,7 @@ with bloques[2]:
     st.markdown("")
     st.markdown("")
 
-    st.markdown("<h5>Mostramos en un mapa los países dónde que se habla el idioma seleccionado</h5>", unsafe_allow_html=True)
+    st.markdown("<h5>Mostramos en un mapa los países dónde se habla el idioma seleccionado</h5>", unsafe_allow_html=True)
     lang_select = st.selectbox("Escoge el idioma",['English', 'Chinese', 'Hindi', 'Spanish', 'Arabic', 'Urdu', 'Bangla', 'French', 'Portuguese', 'Russian'])
     x_lang = lang_select if lang_select != None else 'English'
     x_language = lang[lang['Language'] == x_lang]
@@ -255,7 +255,7 @@ with bloques[2]:
 
     st.markdown("")
 
-    st.markdown("<h5>Mostramos el número total de hablantes de los idioma más populares</h5>", unsafe_allow_html=True)
+    st.markdown("<h5>Mostramos el número total de hablantes de los idiomas más populares</h5>", unsafe_allow_html=True)
     i2 = Image.open('i2.png')
     st.image(i2)
     st.markdown('**Ahora vemos que en términos de población el inglés se ve superado por el chino**.')
