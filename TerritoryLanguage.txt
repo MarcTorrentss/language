@@ -1,0 +1,1682 @@
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Afghanistan,AF,28%,Persian {O},fa,"18,000,000",50%,28%,28%,bug
+,,,Pashto {O},ps,"16,000,000",43%,28%,28%,bug
+,,,Hazaragi,haz,"2,200,000",5.9%,28%,28%,bug
+,,,Uzbek (Arabic) {OR},uz_Arab,"1,700,000",4.7%,28%,28%,bug
+,,,Turkmen {OR},tk,620,1.7%,28%,28%,bug
+,,,Parsi-Dari,prd,440,1.2%,28%,28%,bug
+,,,Western Balochi,bgn,230,0.63%,28%,5.0%,bug
+,,,Uyghur,ug,3,82%,28%,28%,bug
+,,,Kazakh (Arabic),kk_Arab,2,55%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Åland Islands,AX,100%,Swedish {O},sv,26,99%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Albania,AL,97%,Albanian {O},sq,"3,100,000",100%,97%,97%,bug
+,,,Greek,el,58,1.9%,,,bug
+,,,Macedonian,mk,14,0.47%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Algeria,DZ,73%,Algerian Arabic,arq,"36,000,000",83%,73%,73%,bug
+,,,Arabic {O},ar,"32,000,000",74%,,,bug
+,,,French {O},fr,"8,600,000",20%,,,bug
+,,,Kabyle,kab,"3,400,000",7.8%,10%,10%,bug
+,,,English,en,"3,000,000",7.0%,73%,73%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+American Samoa,AS,97%,Samoan {O},sm,49,99%,97%,97%,bug
+,,,English {OD},en,48,97%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Andorra,AD,100%,Catalan {O},ca,39,51%,100%,100%,bug
+,,,Spanish,es,33,43%,,,bug
+,,,French,fr,"5,8",7.5%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Angola,AO,70%,Portuguese {O},pt,"22,000,000",67%,70%,70%,bug
+,,,Umbundu,umb,"9,400,000",29%,,,bug
+,,,Kimbundu,kmb,"8,100,000",25%,10%,10%,bug
+,,,Lingala,ln,220,0.67%,70%,70%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Anguilla,AI,95%,English {O},en,17,95%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Antarctica,AQ,99%,Unknown language,und,300,100%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Antigua & Barbuda,AG,99%,English {O},en,84,86%,99%,99%,bug
+,,,Portuguese,pt,"1,6",1.6%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Argentina,AR,98%,Spanish {O},es,"45,000,000",100%,98%,98%,bug
+,,,English,en,"3,200,000",7.0%,,,bug
+,,,Welsh,cy,30,66%,,,bug
+,,,Guarani,gn,21,47%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Armenia,AM,100%,Armenian {O},hy,"3,000,000",98%,100%,100%,bug
+,,,Kurdish,ku,100,3.3%,,,bug
+,,,Azerbaijani,az,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Aruba,AW,97%,Dutch {O},nl,120,97%,97%,97%,bug
+,,,Papiamento {O},pap,73,61%,97%,97%,bug
+,,,English,en,3,2.5%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Ascension Island,AC,99%,English,en,930,99%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Australia,AU,99%,English {OD},en,"24,000,000",96%,99%,99%,bug
+,,,Traditional Chinese,zh_Hant,530,2.1%,,,bug
+,,,Italian,it,480,1.9%,,,bug
+,,,Warlpiri,wbp,"2,5",98%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Austria,AT,98%,German {O},de,"8,600,000",97%,98%,98%,bug
+,,,Bavarian,bar,"8,400,000",95%,,,bug
+,,,English,en,"6,500,000",73%,,,bug
+,,,French,fr,970,11%,,,bug
+,,,Italian,it,800,9.0%,,,bug
+,,,Croatian {OR},hr,110,1.2%,,,bug
+,,,Slovenian {OR},sl,33,0.37%,,,bug
+,,,Hungarian {OR},hu,23,0.26%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Azerbaijan,AZ,100%,Azerbaijani {O},az,"9,100,000",89%,100%,100%,bug
+,,,Azerbaijani (Cyrillic) {O},az_Cyrl,"1,000,000",9.9%,100%,100%,bug
+,,,Talysh,tly,"1,000,000",9.8%,,,bug
+,,,Kurdish,ku,24,0.24%,100%,100%,bug
+,,,Muslim Tat,ttt,22,0.22%,100%,100%,bug
+,,,Tsakhur,tkr,16,0.16%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Bahamas,BS,96%,English {O},en,340,100%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bahrain,BH,95%,Arabic {O},ar,"1,300,000",87%,95%,95%,bug
+,,,Malayalam,ml,50,3.3%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bangladesh,BD,58%,Bangla {O},bn,"160,000,000",98%,58%,58%,bug
+,,,English,en,"29,000,000",18%,,,bug
+,,,Rangpuri,rkt,"11,000,000",6.5%,20%,20%,bug
+,,,Sylheti,syl,"8,100,000",5.0%,35%,35%,bug
+,,,Chakma,ccp,360,0.22%,58%,58%,bug
+,,,Burmese,my,340,0.21%,58%,58%,bug
+,,,Garo,grt,120,73%,58%,58%,bug
+,,,Mru,mro,29,18%,58%,58%,bug
+,,,Manipuri,mni,18,11%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Barbados,BB,100%,English {O},en,290,100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Belarus,BY,100%,Belarusian {O},be,"9,500,000",100%,100%,100%,bug
+,,,Russian {O},ru,"1,100,000",12%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Belgium,BE,99%,English,en,"6,900,000",59%,99%,99%,bug
+,,,Dutch {O},nl,"6,400,000",55%,,,bug
+,,,French {O},fr,"4,500,000",38%,,,bug
+,,,German {O},de,"2,600,000",22%,,,bug
+,,,West Flemish,vls,"1,200,000",10%,,,bug
+,,,Walloon,wa,680,5.8%,99%,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Belize,BZ,77%,English {O},en,400,100%,77%,77%,bug
+,,,Spanish,es,110,28%,77%,77%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Benin,BJ,42%,French {O},fr,"4,500,000",35%,42%,42%,bug
+,,,Fon,fon,"3,200,000",25%,,,bug
+,,,Yoruba,yo,860,6.7%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bermuda,BM,98%,English {O},en,66,92%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bhutan,BT,53%,Dzongkha {O},dz,370,47%,53%,53%,bug
+,,,Nepali,ne,130,17%,53%,53%,bug
+,,,Tshangla,tsj,120,15%,,,bug
+,,,English,en,86,11%,53%,53%,bug
+,,,Lepcha,lep,31,3.9%,53%,53%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bolivia,BO,91%,Spanish {O},es,"7,100,000",61%,91%,91%,bug
+,,,Quechua {O},qu,"3,700,000",32%,91%,91%,bug
+,,,Aymara {O},ay,"2,300,000",20%,91%,91%,bug
+,,,Guarani,gn,52,0.45%,,,bug
+,,,Araona,aro,100,90%,91%,91%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bosnia & Herzegovina,BA,98%,Bosnian {O},bs,"3,800,000",99%,98%,98%,bug
+,,,Bosnian (Cyrillic) {O},bs_Cyrl,,,,5.0%,bug
+,,,English,en,"1,700,000",45%,,98%,bug
+,,,Croatian {O},hr,460,12%,,,bug
+,,,Serbian {O},sr,380,10%,,,bug
+,,,Serbian (Latin) {O},sr_Latn,,,,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Botswana,BW,85%,English {O},en,"1,900,000",81%,85%,85%,bug
+,,,Tswana {O},tn,"1,400,000",62%,85%,85%,bug
+,,,Afrikaans,af,6,0.26%,85%,85%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bouvet Island,BV,99%,Unknown language,und,1.0,100%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Brazil,BR,90%,Portuguese {O},pt,"190,000,000",91%,90%,90%,bug
+,,,English,en,"17,000,000",8.0%,,,bug
+,,,German,de,"1,800,000",0.84%,,,bug
+,,,Italian,it,590,0.28%,,,bug
+,,,Japanese,ja,440,0.21%,,,bug
+,,,Spanish,es,76,36%,,,bug
+,,,Kaingang,kgp,51,24%,,,bug
+,,,Korean,ko,44,21%,,,bug
+,,,Guajajára,gub,18,84%,,,bug
+,,,Nheengatu,yrl,11,52%,90%,90%,bug
+,,,Xavánte,xav,10,47%,90%,90%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+British Indian Ocean Territory,IO,99%,English {O},en,"3,5",100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+British Virgin Islands,VG,98%,English {O},en,37,98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Brunei,BN,95%,Malay {O},ms,430,93%,95%,95%,bug
+,,,Traditional Chinese,zh_Hant,51,11%,95%,95%,bug
+,,,Malay (Arabic) {O},ms_Arab,23,5.0%,95%,95%,bug
+,,,English,en,"7,9",1.7%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Bulgaria,BG,98%,Bulgarian {O},bg,"7,000,000",100%,98%,98%,bug
+,,,English,en,"1,700,000",25%,,,bug
+,,,Russian,ru,"1,600,000",23%,,,bug
+,,,Turkish,tr,770,11%,,,bug
+,,,German,de,560,8.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Burkina Faso,BF,29%,Mossi,mos,"8,300,000",40%,29%,29%,bug
+,,,Dyula,dyu,"6,700,000",32%,,,bug
+,,,French {O},fr,"4,600,000",22%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Burundi,BI,67%,Rundi {O},rn,"7,500,000",63%,67%,67%,bug
+,,,French {O},fr,"7,000,000",59%,,,bug
+,,,Swahili,sw,"6,4",54%,,,bug
+,,,English {O},en,"6,3",53%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Cambodia,KH,74%,Khmer {O},km,"15,000,000",89%,74%,74%,bug
+,,,Western Cham,cja,270,1.6%,,,bug
+,,,Kuy,kdt,19,0.11%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cameroon,CM,71%,French {O},fr,"19,000,000",68%,71%,71%,bug
+,,,English {O},en,"11,000,000",38%,,,bug
+,,,Bulu,bum,"1,300,000",4.6%,,,bug
+,,,Fulah,ff,"1,000,000",3.6%,,,bug
+,,,Ewondo,ewo,860,3.1%,15%,15%,bug
+,,,Yemba,ybb,440,1.6%,2.0%,2.0%,bug
+,,,Ghomala,bbj,390,1.4%,25%,25%,bug
+,,,Ngiemboon,nnh,,,8.0%,8.0%,bug
+,,,Kom,bkm,360,1.3%,71%,5.0%,bug
+,,,Basaa,bas,330,1.2%,25%,25%,bug
+,,,Bamun,bax,,,71%,71%,bug
+,,,Medumba,byv,310,1.1%,15%,15%,bug
+,,,Mundang,mua,280,1.0%,71%,71%,bug
+,,,Mafa,maf,210,0.74%,,,bug
+,,,Bafut,bfd,160,0.57%,30%,30%,bug
+,,,Akoose,bss,150,0.54%,,,bug
+,,,Kako,kkj,,,71%,71%,bug
+,,,Duala,dua,130,0.48%,25%,25%,bug
+,,,Metaʼ,mgo,130,0.47%,71%,5.0%,bug
+,,,Arabic,ar,110,0.39%,71%,71%,bug
+,,,Ngomba,jgo,94,0.34%,30%,30%,bug
+,,,Bafia,ksf,89,0.32%,71%,71%,bug
+,,,Aghem,agq,39,0.14%,20%,20%,bug
+,,,Hausa (Arabic),ha_Arab,,,71%,71%,bug
+,,,Kwasio,nmg,"8,9",32%,10%,10%,bug
+,,,Yangben,yav,"2,3",83%,71%,71%,bug
+,,,Fulah (Adlam),ff_Adlm,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Canada,CA,99%,English {O},en,"32,000,000",86%,99%,99%,bug
+,,,French {O},fr,"8,300,000",22%,,,bug
+,,,Italian,it,750,2.0%,,,bug
+,,,German,de,720,1.9%,99%,99%,bug
+,,,Plautdietsch,pdt,90,0.24%,99%,99%,bug
+,,,Cree,cr,41,0.11%,,,bug
+,,,Plains Cree,crk,,,,,bug
+,,,Yiddish,yi,17,45%,99%,99%,bug
+,,,Inuktitut {OR},iu,16,42%,30%,30%,bug
+,,,Inuktitut (Latin) {OR},iu_Latn,,,,,bug
+,,,Innu,moe,12,33%,99%,99%,bug
+,,,Southern East Cree,crj,"7,2",19%,,,bug
+,,,Atikamekw,atj,"5,7",15%,,,bug
+,,,Northern East Cree,crl,"5,3",14%,,,bug
+,,,Swampy Cree,csw,"4,9",13%,99%,99%,bug
+,,,Moose Cree,crm,"4,5",12%,,,bug
+,,,Inuinnaqtun {OR},ikt,"4,1",11%,30%,30%,bug
+,,,Mohawk,moh,"3,5",93%,99%,99%,bug
+,,,Dogrib,dgr,"2,6",70%,,,bug
+,,,Slave,den,"2,3",61%,,,bug
+,,,North Slavey,scs,"1,2",33%,,,bug
+,,,Naskapi,nsk,"1,2",31%,99%,99%,bug
+,,,Chipewyan,chp,750,20%,99%,99%,bug
+,,,Gwichʼin,gwi,570,15%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Canary Islands,IC,98%,Spanish {O},es,"2,100,000",98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cape Verde,CV,85%,Kabuverdianu,kea,530,91%,85%,85%,bug
+,,,Portuguese {O},pt,440,76%,85%,85%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Caribbean Netherlands,BQ,96%,Papiamento,pap,16,81%,96%,96%,bug
+,,,Dutch {O},nl,"1,6",8.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cayman Islands,KY,99%,English {O},en,61,98%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Central African Republic,CF,57%,French {O},fr,"2,900,000",49%,57%,57%,bug
+,,,Sango {O},sg,,,,,bug
+,,,Lingala,ln,14,0.24%,57%,57%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Ceuta & Melilla,EA,98%,Spanish {O},es,150,98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Chad,TD,35%,French {O},fr,"4,400,000",26%,35%,35%,bug
+,,,Arabic {O},ar,"2,900,000",17%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Chile,CL,99%,Spanish {O},es,"18,000,000",98%,99%,99%,bug
+,,,English,en,"1,700,000",9.5%,,,bug
+,,,Mapuche,arn,270,1.5%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+China,CN,95%,Chinese {O},zh,"1,300,000,000",90%,95%,95%,bug
+,,,Wu Chinese,wuu,"84,000,000",6.0%,,,bug
+,,,Cantonese (Simplified),yue_Hans,"72,000,000",5.2%,95%,95%,bug
+,,,Xiang Chinese,hsn,"40,000,000",2.9%,95%,95%,bug
+,,,Hakka Chinese,hak,"32,000,000",2.3%,,,bug
+,,,Min Nan Chinese,nan,"26,000,000",1.9%,,,bug
+,,,Gan Chinese,gan,"24,000,000",1.7%,,,bug
+,,,Sichuan Yi,ii,"8,400,000",0.60%,60%,60%,bug
+,,,Uyghur {OR},ug,"7,700,000",0.55%,95%,95%,bug
+,,,Zhuang {OR},za,"4,300,000",0.31%,,,bug
+,,,Mongolian (Mongolian) {OR},mn_Mong,"3,600,000",0.26%,,,bug
+,,,Tibetan {OR},bo,"2,800,000",0.20%,,,bug
+,,,Korean {OR},ko,"2,100,000",0.15%,,,bug
+,,,Kazakh (Arabic),kk_Arab,"1,200,000",85%,95%,95%,bug
+,,,Lisu,lis,630,45%,95%,95%,bug
+,,,Kyrgyz (Arabic),ky_Arab,470,34%,95%,95%,bug
+,,,Naxi,nxq,330,24%,,,bug
+,,,Lü,khb,260,19%,95%,95%,bug
+,,,Tai Nüa,tdd,,,,,bug
+,,,Western Lawa,lcp,81,58%,,,bug
+,,,English,en,63,45%,,,bug
+,,,Russian,ru,14,10%,,,bug
+,,,Vietnamese,vi,7,50%,,,bug
+,,,Uzbek (Cyrillic),uz_Cyrl,"5,6",40%,,,bug
+,,,Literary Chinese,lzh,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Christmas Island,CX,99%,English {O},en,"1,4",63%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Clipperton Island,CP,99%,Unknown language,und,1.0,100%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cocos (Keeling) Islands,CC,99%,Malay (Arabic),ms_Arab,490,83%,99%,99%,bug
+,,,English {OD},en,100,17%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Colombia,CO,94%,Spanish {O},es,"46,000,000",93%,94%,94%,bug
+,,,Wayuu,guc,130,0.27%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Comoros,KM,76%,Arabic {O},ar,560,66%,76%,76%,bug
+,,,French {O},fr,470,56%,,,bug
+,,,Ngazidja Comorian {O},zdj,310,37%,,,bug
+,,,Ndzwani Comorian {O},wni,290,34%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Congo - Brazzaville,CG,84%,French {O},fr,"4,400,000",84%,84%,84%,bug
+,,,Lingala,ln,130,2.4%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Congo - Kinshasa,CD,67%,Swahili {OR},sw,"51,000,000",50%,67%,67%,bug
+,,,Luba-Lulua {OR},lua,"9,800,000",9.6%,,,bug
+,,,French {O},fr,"3,900,000",3.8%,,,bug
+,,,Lingala {OR},ln,"3,200,000",3.1%,67%,67%,bug
+,,,Luba-Katanga,lu,"2,300,000",2.3%,67%,67%,bug
+,,,Kongo {OR},kg,"1,500,000",1.5%,,,bug
+,,,Mongo,lol,620,0.61%,,,bug
+,,,Kinyarwanda,rw,390,0.38%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cook Islands,CK,95%,English {O},en,"8,6",100%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Costa Rica,CR,96%,Spanish {O},es,"4,800,000",95%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Côte d’Ivoire,CI,57%,French {O},fr,"13,000,000",49%,57%,57%,bug
+,,,Baoulé,bci,"3,000,000",11%,10%,10%,bug
+,,,Cebaara Senoufo,sef,"1,200,000",4.3%,57%,5.0%,bug
+,,,Dan,dnj,"1,100,000",4.0%,1.0%,1.0%,bug
+,,,Koro,kfo,63,0.23%,57%,57%,bug
+,,,Koro Wachi,bqv,47,0.17%,10%,10%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Croatia,HR,99%,Croatian {O},hr,"4,200,000",99%,99%,99%,bug
+,,,English,en,"2,100,000",49%,,,bug
+,,,Italian {OR},it,68,1.6%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cuba,CU,100%,Spanish {O},es,"11,000,000",100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Curaçao,CW,96%,Papiamento {OD},pap,120,81%,96%,96%,bug
+,,,Dutch {O},nl,12,8.0%,,,bug
+,,,Spanish,es,"5,8",3.8%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Cyprus,CY,99%,Greek {O},el,"1,200,000",95%,99%,99%,bug
+,,,English,en,920,73%,,,bug
+,,,Turkish {O},tr,290,23%,,,bug
+,,,French,fr,89,7.0%,,,bug
+,,,Armenian,hy,"2,8",0.22%,99%,99%,bug
+,,,Arabic,ar,"1,3",0.10%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Czechia,CZ,99%,Czech {O},cs,"10,000,000",98%,99%,99%,bug
+,,,English,en,"2,900,000",27%,,,bug
+,,,Slovak,sk,"1,700,000",16%,,,bug
+,,,German,de,"1,600,000",15%,,,bug
+,,,Polish,pl,52,0.49%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Denmark,DK,99%,Danish {O},da,"5,500,000",93%,99%,99%,bug
+,,,English,en,"5,000,000",86%,99%,99%,bug
+,,,German {OR},de,"2,800,000",47%,,,bug
+,,,Swedish,sv,760,13%,,,bug
+,,,Faroese,fo,22,0.38%,,,bug
+,,,Kalaallisut {OR},kl,7,0.12%,,,bug
+,,,Jutish,jut,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Diego Garcia,DG,99%,English {OD},en,500,99%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Djibouti,DJ,68%,Afar,aa,390,42%,68%,68%,bug
+,,,Somali,so,380,41%,,,bug
+,,,Arabic {O},ar,67,7.3%,,,bug
+,,,French {O},fr,19,2.1%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Dominica,DM,94%,English {O},en,70,94%,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Dominican Republic,DO,90%,Spanish {O},es,"8,200,000",78%,90%,90%,bug
+,,,English,en,8,76%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Ecuador,EC,92%,Spanish {O},es,"16,000,000",96%,92%,92%,bug
+,,,Quechua {O},qu,"2,900,000",17%,,,bug
+,,,Chimborazo Highland Quichua,qug,960,5.7%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Egypt,EG,74%,Arabic {O},ar,"98,000,000",94%,74%,74%,bug
+,,,Egyptian Arabic,arz,"67,000,000",64%,,,bug
+,,,English,en,"36,000,000",35%,,,bug
+,,,Greek,el,64,61%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+El Salvador,SV,84%,Spanish {O},es,"5,800,000",89%,84%,84%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Equatorial Guinea,GQ,94%,Spanish {O},es,730,87%,94%,94%,bug
+,,,Fang,fan,430,51%,94%,94%,bug
+,,,French {O},fr,74,8.8%,,,bug
+,,,Bube,bvb,66,7.9%,,,bug
+,,,Portuguese {O},pt,0.84,10%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Eritrea,ER,69%,Tigrinya {OD},ti,"3,600,000",60%,69%,69%,bug
+,,,English {O},en,"3,600,000",59%,,,bug
+,,,Tigre,tig,"1,100,000",18%,,,bug
+,,,Arabic {O},ar,300,4.9%,,5.0%,bug
+,,,Afar,aa,220,3.6%,69%,69%,bug
+,,,Saho,ssy,,,,,bug
+,,,Blin,byn,79,1.3%,69%,69%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Estonia,EE,100%,Estonian {O},et,870,71%,100%,100%,bug
+,,,Russian,ru,690,56%,100%,100%,bug
+,,,English,en,610,50%,100%,100%,bug
+,,,Finnish,fi,260,21%,,,bug
+,,,Võro,vro,70,5.7%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Eswatini,SZ,88%,English {O},en,880,80%,88%,88%,bug
+,,,Swati {O},ss,640,58%,,,bug
+,,,Zulu,zu,75,6.8%,,,bug
+,,,Tsonga,ts,19,1.7%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Ethiopia,ET,39%,English,en,"46,000,000",43%,39%,39%,bug
+,,,Amharic {O},am,"36,000,000",33%,39%,39%,bug
+,,,Oromo,om,"35,000,000",32%,,,bug
+,,,Somali,so,"6,500,000",6.0%,39%,39%,bug
+,,,Tigrinya,ti,,,,,bug
+,,,Sidamo,sid,"3,800,000",3.5%,39%,39%,bug
+,,,Wolaytta,wal,"1,900,000",1.8%,,,bug
+,,,Afar,aa,"1,500,000",1.4%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Falkland Islands,FK,99%,English {O},en,"2,8",88%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Faroe Islands,FO,99%,Faroese {O},fo,49,95%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Fiji,FJ,94%,English {O},en,880,94%,94%,94%,bug
+,,,Hindi,hi,410,44%,94%,94%,bug
+,,,Fiji Hindi {O},hif,380,41%,94%,94%,bug
+,,,Fijian {O},fj,370,39%,94%,94%,bug
+,,,Rotuman,rtm,"2,5",0.27%,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Finland,FI,100%,Finnish {O},fi,"5,200,000",94%,100%,100%,bug
+,,,English,en,"3,900,000",70%,,,bug
+,,,Swedish {O},sv,"2,500,000",44%,,,bug
+,,,German,de,"1,000,000",18%,,,bug
+,,,Russian,ru,45,0.81%,,,bug
+,,,Estonian,et,"6,1",0.11%,,,bug
+,,,Kalo Finnish Romani,rmf,5,90%,,,bug
+,,,Northern Sami,se,2,36%,,,bug
+,,,Inari Sami,smn,610,11%,,,bug
+,,,Skolt Sami,sms,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+France,FR,99%,French {O},fr,"67,000,000",99%,99%,99%,bug
+,,,English,en,"26,000,000",39%,,,bug
+,,,Spanish,es,"8,800,000",13%,,,bug
+,,,German,de,"3,400,000",5.0%,,,bug
+,,,Occitan,oc,"2,000,000",3.0%,,5.0%,bug
+,,,Italian,it,"1,200,000",1.7%,,99%,bug
+,,,Portuguese,pt,880,1.3%,99%,99%,bug
+,,,Picard,pcd,750,1.1%,99%,99%,bug
+,,,Swiss German,gsw,620,0.91%,,5.0%,bug
+,,,Breton,br,560,0.83%,3.0%,3.0%,bug
+,,,Corsican,co,160,0.24%,99%,5.0%,bug
+,,,Catalan,ca,120,0.17%,,99%,bug
+,,,Basque,eu,88,0.13%,,,bug
+,,,Dutch,nl,,,,,bug
+,,,Arpitan,frp,64,94%,,,bug
+,,,Interlingua,ia,140,20%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+French Guiana,GF,83%,French {O},fr,150,77%,83%,83%,bug
+,,,Guianese Creole French,gcr,52,26%,,,bug
+,,,Traditional Chinese,zh_Hant,5,2.5%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+French Polynesia,PF,98%,French {O},fr,180,61%,98%,98%,bug
+,,,Tahitian {O},ty,91,31%,98%,98%,bug
+,,,Traditional Chinese,zh_Hant,23,7.8%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+French Southern Territories,TF,99%,French,fr,140,100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Gabon,GA,89%,French {O},fr,"1,400,000",63%,89%,89%,bug
+,,,Punu,puu,200,9.0%,89%,89%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Gambia,GM,51%,English {O},en,870,40%,51%,51%,bug
+,,,Mandingo,man,630,29%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Georgia,GE,100%,Georgian {O},ka,"3,400,000",86%,100%,100%,bug
+,,,Mingrelian,xmf,440,11%,,,bug
+,,,Russian,ru,360,9.0%,,,bug
+,,,Armenian,hy,280,7.0%,,,bug
+,,,Ossetic {OR},os,160,4.1%,,,bug
+,,,Abkhazian {OR},ab,88,2.2%,,,bug
+,,,Kurdish,ku,36,0.89%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Germany,DE,99%,German {O},de,"73,000,000",91%,99%,99%,bug
+,,,English,en,"51,000,000",64%,,,bug
+,,,French,fr,"14,000,000",18%,,,bug
+,,,Bavarian,bar,"14,000,000",17%,,5.0%,bug
+,,,Low German,nds,"9,600,000",12%,,,bug
+,,,Dutch,nl,"7,200,000",9.0%,,99%,bug
+,,,Italian,it,"5,600,000",7.0%,,,bug
+,,,Spanish,es,"4,800,000",6.0%,,,bug
+,,,Russian,ru,,,,,bug
+,,,Main-Franconian,vmf,,,,,bug
+,,,Turkish,tr,"2,000,000",2.5%,,,bug
+,,,Swiss German,gsw,"1,800,000",2.3%,,5.0%,bug
+,,,Danish,da,"1,600,000",2.0%,,99%,bug
+,,,Swabian,swg,800,1.0%,,5.0%,bug
+,,,Croatian,hr,630,0.79%,,99%,bug
+,,,Kurdish,ku,530,0.66%,,,bug
+,,,Greek,el,300,0.38%,,,bug
+,,,Colognian,ksh,240,0.30%,,,bug
+,,,Polish,pl,230,0.29%,,,bug
+,,,Upper Sorbian,hsb,13,16%,,5.0%,bug
+,,,Northern Frisian,frr,"9,6",12%,,99%,bug
+,,,Lower Sorbian,dsb,7,87%,,5.0%,bug
+,,,Eastern Frisian,frs,2,25%,,99%,bug
+,,,Saterland Frisian,stq,960,12%,,,bug
+,,,Palatine German,pfl,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Ghana,GH,72%,Akan {OR},ak,"11,000,000",39%,72%,72%,bug
+,,,English {O},en,"6,200,000",21%,,,bug
+,,,Ewe {OR},ee,"3,200,000",11%,,,bug
+,,,Abron,abr,"1,500,000",5.0%,71%,71%,bug
+,,,Frafra,gur,"1,000,000",3.5%,72%,72%,bug
+,,,Adangme,ada,880,3.0%,,,bug
+,,,Ga {OR},gaa,820,2.8%,,,bug
+,,,Nzima,nzi,290,1.0%,,,bug
+,,,Hausa,ha,250,0.86%,,,bug
+,,,Safaliba,saf,"4,1",14%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Gibraltar,GI,80%,English {O},en,24,80%,80%,80%,bug
+,,,Spanish,es,15,50%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Greece,GR,97%,Greek {O},el,"11,000,000",99%,97%,97%,bug
+,,,English,en,"5,400,000",51%,97%,97%,bug
+,,,French,fr,950,9.0%,,,bug
+,,,German,de,530,5.0%,,,bug
+,,,Pontic,pnt,390,3.7%,,,bug
+,,,Macedonian,mk,170,1.6%,,,bug
+,,,Turkish,tr,130,1.2%,,,bug
+,,,Bulgarian,bg,29,0.27%,,,bug
+,,,Albanian,sq,10,94%,,,bug
+,,,Tsakonian,tsd,200,19%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Greenland,GL,100%,Kalaallisut {O},kl,48,84%,100%,100%,bug
+,,,Danish,da,"8,1",14%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Grenada,GD,96%,English {O},en,110,96%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guadeloupe,GP,90%,French {O},fr,410,90%,90%,90%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guam,GU,99%,English {OD},en,150,91%,99%,99%,bug
+,,,Chamorro {O},ch,37,22%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guatemala,GT,76%,Spanish {O},es,"16,000,000",93%,76%,76%,bug
+,,,Kʼicheʼ {OR},quc,"1,200,000",7.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guernsey,GG,100%,English {O},en,67,100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guinea,GN,41%,French {O},fr,"3,600,000",29%,41%,41%,bug
+,,,Fulah,ff,"3,300,000",26%,41%,41%,bug
+,,,Mandingo (N’Ko),man_Nkoo,"2,900,000",23%,41%,41%,bug
+,,,Susu,sus,"1,400,000",11%,,,bug
+,,,N’Ko,nqo,630,5.0%,,,bug
+,,,Kpelle,kpe,480,3.8%,,,bug
+,,,Fulah (Adlam),ff_Adlm,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Guinea-Bissau,GW,55%,Portuguese {O},pt,"1,900,000",100%,55%,55%,bug
+,,,Mankanya,knf,50,2.6%,,,bug
+,,,Fulah,ff,1.9,10%,55%,55%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Guyana,GY,92%,English {O},en,750,100%,92%,92%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Haiti,HT,49%,Haitian Creole {O},ht,"9,000,000",81%,49%,49%,bug
+,,,French {O},fr,520,4.7%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Heard & McDonald Islands,HM,99%,Unknown language,und,1.0,100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Honduras,HN,85%,Spanish {O},es,"7,200,000",78%,85%,85%,bug
+,,,English,en,41,0.44%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Hong Kong SAR China,HK,94%,Traditional Chinese {O},zh_Hant,"6,900,000",95%,94%,94%,bug
+,,,Cantonese,yue,"6,500,000",90%,,,bug
+,,,English {O},en,"3,700,000",51%,,,bug
+,,,Chinese,zh,360,5.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Hungary,HU,99%,Hungarian {O},hu,"9,800,000",100%,99%,99%,bug
+,,,English,en,"2,000,000",20%,99%,99%,bug
+,,,German,de,"1,800,000",18%,,,bug
+,,,French,fr,290,3.0%,,,bug
+,,,Romanian,ro,97,0.99%,99%,99%,bug
+,,,Croatian,hr,31,0.32%,99%,99%,bug
+,,,Slovak,sk,12,0.12%,,,bug
+,,,Slovenian,sl,5,51%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Iceland,IS,99%,Icelandic {O},is,350,100%,99%,99%,bug
+,,,Danish,da,"2,2",0.64%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+India,IN,63%,Hindi {O},hi,"540,000,000",41%,63%,63%,bug
+,,,English {O},en,"250,000,000",19%,63%,63%,bug
+,,,Bangla {OR},bn,"110,000,000",8.1%,63%,63%,bug
+,,,Telugu {OR},te,"95,000,000",7.2%,,,bug
+,,,Marathi {OR},mr,"93,000,000",7.0%,,,bug
+,,,Tamil {OR},ta,"78,000,000",5.9%,,,bug
+,,,Urdu {OR},ur,"66,000,000",5.0%,,,bug
+,,,Gujarati {OR},gu,"60,000,000",4.5%,,,bug
+,,,Kannada {OR},kn,"49,000,000",3.7%,,,bug
+,,,Malayalam {OR},ml,"42,000,000",3.2%,,,bug
+,,,Odia {OR},or,,,,,bug
+,,,Punjabi {OR},pa,"37,000,000",2.8%,,,bug
+,,,Bhojpuri,bho,"31,000,000",2.3%,30%,30%,bug
+,,,Awadhi,awa,"25,000,000",1.9%,63%,5.0%,bug
+,,,Assamese {OR},as,"17,000,000",1.3%,,63%,bug
+,,,Haryanvi,bgc,"16,000,000",1.2%,55%,55%,bug
+,,,Magahi,mag,,,30%,30%,bug
+,,,Maithili {OR},mai,,,63%,63%,bug
+,,,Marwari,mwr,,,,,bug
+,,,Chhattisgarhi,hne,"15,000,000",1.1%,63%,63%,bug
+,,,Deccan,dcc,"13,000,000",0.99%,63%,63%,bug
+,,,Kanauji,bjj,"7,400,000",0.56%,60%,60%,bug
+,,,Nepali {OR},ne,,,63%,63%,bug
+,,,Santali {OR},sat,"7,300,000",0.55%,63%,63%,bug
+,,,Mewati,wtm,"6,100,000",0.46%,25%,25%,bug
+,,,Rangpuri,rkt,"5,700,000",0.43%,20%,20%,bug
+,,,Kashmiri {OR},ks,"5,400,000",0.41%,63%,63%,bug
+,,,Konkani {OR},kok,"4,900,000",0.37%,,,bug
+,,,Goan Konkani,gom,"4,200,000",0.32%,,,bug
+,,,Shekhawati,swv,"3,700,000",0.28%,63%,63%,bug
+,,,Garhwali,gbm,"3,600,000",0.27%,63%,63%,bug
+,,,Lambadi,lmn,,,,,bug
+,,,Sindhi {OR},sd,"3,400,000",0.26%,63%,63%,bug
+,,,Gondi,gon,"3,200,000",0.24%,,,bug
+,,,Kumaoni,kfy,"2,900,000",0.22%,63%,63%,bug
+,,,Dogri,doi,"2,700,000",0.20%,63%,63%,bug
+,,,Kurukh,kru,"2,500,000",0.19%,63%,63%,bug
+,,,Sadri,sck,"2,400,000",0.18%,63%,63%,bug
+,,,Waddar,wbq,,,,,bug
+,,,Kangri,xnr,"2,100,000",0.16%,,,bug
+,,,Khandesi,khn,"2,000,000",0.15%,,,bug
+,,,Tulu,tcy,,,,,bug
+,,,Wagdi,wbr,,,,,bug
+,,,Bodo,brx,"1,900,000",0.14%,63%,63%,bug
+,,,Nimadi,noe,"1,700,000",0.13%,63%,63%,bug
+,,,Bhili,bhb,"1,600,000",0.12%,,,bug
+,,,Manipuri,mni,"1,500,000",0.11%,63%,63%,bug
+,,,Hindi (Latin),hi_Latn,"1,300,000",0.10%,63%,63%,bug
+,,,Rajasthani,raj,,,,,bug
+,,,Ho,hoc,"1,300,000",99%,,,bug
+,,,Mewari,mtr,"1,300,000",97%,,,bug
+,,,Mundari,unr,"1,200,000",94%,63%,63%,bug
+,,,Bhilali,bhi,"1,200,000",92%,63%,63%,bug
+,,,Hadothi,hoj,"1,100,000",82%,,,bug
+,,,Khasi {OR},kha,"1,100,000",80%,29%,29%,bug
+,,,Kachhi,kfr,990,75%,63%,63%,bug
+,,,Garo,grt,700,53%,,,bug
+,,,Munda,unx,640,48%,,,bug
+,,,Bagheli,bfy,490,37%,63%,63%,bug
+,,,Sirmauri,srx,460,35%,63%,63%,bug
+,,,Saurashtra,saz,380,29%,63%,63%,bug
+,,,Chakma,ccp,370,28%,,,bug
+,,,Sindhi (Devanagari) {OR},sd_Deva,340,26%,,,bug
+,,,Badaga,bfq,310,23%,,,bug
+,,,Ao Naga,njo,,,,,bug
+,,,Riang [India],ria,170,13%,,,bug
+,,,Tibetan,bo,150,11%,,,bug
+,,,Bishnupriya,bpy,90,68%,,,bug
+,,,Balti,bft,82,62%,63%,63%,bug
+,,,Braj,bra,54,41%,63%,63%,bug
+,,,Lepcha,lep,46,35%,,,bug
+,,,Bateri,btv,34,26%,63%,63%,bug
+,,,Limbu,lif,,,,,bug
+,,,Lahnda,lah,33,25%,63%,63%,bug
+,,,Sanskrit {OR},sa,16,12%,,,bug
+,,,Khamti,kht,"9,3",70%,63%,63%,bug
+,,,Divehi,dv,4,30%,63%,63%,bug
+,,,Dzongkha,dz,"2,7",20%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Indonesia,ID,93%,Indonesian {O},id,"170,000,000",64%,93%,93%,bug
+,,,Javanese,jv,"91,000,000",34%,10%,10%,bug
+,,,Sundanese,su,"32,000,000",12%,93%,93%,bug
+,,,Madurese,mad,"17,000,000",6.3%,40%,40%,bug
+,,,Malay,ms,"9,100,000",3.4%,93%,93%,bug
+,,,Minangkabau,min,"8,000,000",3.0%,10%,10%,bug
+,,,Betawi,bew,"5,600,000",2.1%,93%,93%,bug
+,,,Balinese,ban,"4,800,000",1.8%,10%,10%,bug
+,,,Buginese,bug,"4,300,000",1.6%,,,bug
+,,,Banjar,bjn,"4,000,000",1.5%,,,bug
+,,,Achinese,ace,"3,700,000",1.4%,93%,93%,bug
+,,,Malay (Arabic),ms_Arab,"3,200,000",1.2%,93%,93%,bug
+,,,Sasak,sas,"2,600,000",0.97%,93%,93%,bug
+,,,Batak Toba,bbc,"2,500,000",0.92%,93%,93%,bug
+,,,Traditional Chinese,zh_Hant,,,,,bug
+,,,Makasar,mak,"1,900,000",0.73%,93%,93%,bug
+,,,Lampung Api,ljp,"1,800,000",0.69%,,,bug
+,,,Rejang,rej,"1,200,000",0.46%,93%,93%,bug
+,,,Gorontalo,gor,"1,100,000",0.41%,93%,93%,bug
+,,,Ngaju,nij,990,0.37%,,,bug
+,,,Komering,kge,850,0.32%,,,bug
+,,,Uab Meto,aoz,720,0.27%,93%,93%,bug
+,,,Kerinci,kvr,370,0.14%,93%,93%,bug
+,,,Tolaki,lbw,350,0.13%,93%,93%,bug
+,,,Gayo,gay,320,0.12%,,,bug
+,,,Tae',rob,290,0.11%,93%,93%,bug
+,,,Mandar,mdr,250,92%,,,bug
+,,,Sangir,sxn,,,,,bug
+,,,Selayar,sly,140,54%,,,bug
+,,,Mentawai,mwv,64,24%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Iran,IR,85%,Persian {O},fa,"64,000,000",75%,85%,85%,bug
+,,,Azerbaijani (Arabic),az_Arab,"20,000,000",24%,,,bug
+,,,Mazanderani,mzn,"4,200,000",5.0%,,,bug
+,,,Gilaki,glk,"3,900,000",4.6%,,,bug
+,,,Central Kurdish,ckb,"3,300,000",3.9%,,,bug
+,,,Southern Kurdish,sdh,"3,100,000",3.7%,,,bug
+,,,Turkmen,tk,"2,400,000",2.8%,,,bug
+,,,Northern Luri,lrc,"1,800,000",2.1%,10%,10%,bug
+,,,Arabic,ar,"1,700,000",2.0%,85%,85%,bug
+,,,Baluchi,bal,,,,,bug
+,,,Domari,rmt,"1,600,000",1.9%,1.0%,1.0%,bug
+,,,Bakhtiari,bqi,"1,200,000",1.4%,85%,85%,bug
+,,,Southern Luri,luz,"1,000,000",1.2%,,,bug
+,,,Laki,lki,650,0.76%,85%,85%,bug
+,,,Western Balochi,bgn,480,0.56%,85%,5.0%,bug
+,,,Parsi-Dari,prd,420,0.50%,85%,85%,bug
+,,,Armenian,hy,200,0.24%,85%,85%,bug
+,,,Pashto,ps,140,0.16%,85%,85%,bug
+,,,Georgian,ka,60,71%,85%,85%,bug
+,,,Zoroastrian Dari,gbz,8,94%,85%,85%,bug
+,,,Kazakh (Arabic),kk_Arab,3,35%,85%,85%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Iraq,IQ,78%,Arabic {O},ar,"26,000,000",68%,79%,79%,bug
+,,,English,en,"14,000,000",35%,78%,78%,bug
+,,,Central Kurdish {OR},ckb,"7,800,000",20%,78%,78%,bug
+,,,Azerbaijani (Arabic) {OR},az_Arab,700,1.8%,,,bug
+,,,Persian,fa,340,0.87%,,,bug
+,,,Northern Luri,lrc,240,0.61%,,,bug
+,,,Syriac,syr,190,0.50%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Ireland,IE,99%,English {O},en,"5,100,000",98%,99%,99%,bug
+,,,Irish {O},ga,"1,100,000",22%,,,bug
+,,,French,fr,880,17%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Isle of Man,IM,99%,English {O},en,90,100%,99%,99%,bug
+,,,Manx {O},gv,"1,7",1.9%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Israel,IL,97%,Hebrew {O},he,"8,700,000",100%,97%,97%,bug
+,,,English,en,"7,400,000",85%,,,bug
+,,,Arabic {O},ar,"1,700,000",20%,,,bug
+,,,Russian,ru,950,11%,,,bug
+,,,Romanian,ro,320,3.7%,97%,97%,bug
+,,,Yiddish,yi,260,3.0%,97%,97%,bug
+,,,Polish,pl,130,1.5%,,,bug
+,,,Ladino,lad,110,1.3%,,,bug
+,,,Hungarian,hu,87,1.0%,,,bug
+,,,Amharic,am,51,0.59%,97%,97%,bug
+,,,Tigrinya,ti,10,0.12%,97%,97%,bug
+,,,Malayalam,ml,8,92%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Italy,IT,99%,Italian {O},it,"59,000,000",95%,99%,99%,bug
+,,,English,en,"21,000,000",34%,,,bug
+,,,French {OR},fr,"3,900,000",6.3%,,,bug
+,,,Sardinian,sc,"1,100,000",1.7%,,,bug
+,,,German,de,"1,000,000",1.6%,,,bug
+,,,Venetian,vec,810,1.3%,99%,99%,bug
+,,,Neapolitan,nap,610,0.97%,99%,5.0%,bug
+,,,Ligurian,lij,540,0.86%,99%,99%,bug
+,,,Sicilian,scn,510,0.82%,99%,5.0%,bug
+,,,Sassarese Sardinian,sdc,110,0.17%,,99%,bug
+,,,Slovenian,sl,,,,,bug
+,,,Friulian,fur,37,60%,,5.0%,bug
+,,,Emilian,egl,31,50%,,99%,bug
+,,,Catalan,ca,22,35%,99%,99%,bug
+,,,Greek,el,,,,,bug
+,,,Lombard,lmo,19,30%,99%,99%,bug
+,,,Piedmontese,pms,"6,2",99%,,,bug
+,,,Croatian,hr,"3,5",56%,,,bug
+,,,Romagnol,rgn,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Jamaica,JM,87%,English {O},en,"2,800,000",98%,87%,87%,bug
+,,,Jamaican Creole English,jam,"2,700,000",95%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Japan,JP,99%,Japanese {O},ja,"120,000,000",95%,99%,99%,bug
+,,,Central Okinawan,ryu,970,0.77%,,5.0%,bug
+,,,Korean,ko,650,0.52%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Jersey,JE,99%,English {O},en,96,95%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Jordan,JO,96%,Arabic {O},ar,"11,000,000",100%,96%,96%,bug
+,,,English,en,"4,900,000",45%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Kazakhstan,KZ,100%,Russian {O},ru,"14,000,000",72%,100%,100%,bug
+,,,Kazakh {O},kk,"12,000,000",64%,100%,100%,bug
+,,,English,en,"2,900,000",15%,,,bug
+,,,German,de,"1,200,000",6.4%,100%,100%,bug
+,,,Uyghur (Cyrillic),ug_Cyrl,380,2.0%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Kenya,KE,87%,Swahili {O},sw,"35,000,000",66%,87%,87%,bug
+,,,English {O},en,"10,000,000",19%,,,bug
+,,,Kikuyu,ki,"9,100,000",17%,,,bug
+,,,Luyia,luy,"5,900,000",11%,87%,87%,bug
+,,,Luo,luo,"5,200,000",9.8%,,,bug
+,,,Kamba,kam,"4,100,000",7.6%,87%,87%,bug
+,,,Kalenjin,kln,,,,,bug
+,,,Gusii,guz,"2,600,000",4.9%,87%,87%,bug
+,,,Meru,mer,"2,100,000",4.0%,87%,87%,bug
+,,,Masai,mas,860,1.6%,50%,50%,bug
+,,,Embu,ebu,800,1.5%,1.0%,1.0%,bug
+,,,Somali,so,700,1.3%,87%,87%,bug
+,,,Taita,dav,440,0.82%,87%,5.0%,bug
+,,,Teso,teo,400,0.74%,87%,87%,bug
+,,,Pökoot,pko,370,0.69%,1.0%,1.0%,bug
+,,,Oromo,om,250,0.47%,87%,87%,bug
+,,,Samburu,saq,250,0.46%,1.0%,1.0%,bug
+,,,Arabic,ar,25,46%,87%,87%,bug
+,,,Punjabi,pa,10,19%,,,bug
+,,,Gujarati,gu,5,93%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Kiribati,KI,90%,English {O},en,110,100%,90%,90%,bug
+,,,Gilbertese {O},gil,67,60%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Kosovo,XK,92%,Albanian {O},sq,"1,800,000",92%,92%,92%,bug
+,,,Gheg Albanian,aln,"1,400,000",74%,,,bug
+,,,Serbian {O},sr,97,5.0%,,,bug
+,,,Serbian (Latin) {O},sr_Latn,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Kuwait,KW,94%,Arabic {O},ar,"3,000,000",100%,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Kyrgyzstan,KG,99%,Kyrgyz {O},ky,"2,900,000",48%,99%,99%,bug
+,,,Russian {O},ru,"2,100,000",36%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Laos,LA,73%,Lao {O},lo,"5,100,000",69%,73%,73%,bug
+,,,Khmu,kjg,430,5.8%,,,bug
+,,,Kuy,kdt,71,0.96%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Latvia,LV,100%,Latvian {O},lv,"1,100,000",61%,100%,100%,bug
+,,,English,en,870,46%,,,bug
+,,,Russian,ru,710,38%,,,bug
+,,,Latgalian,ltg,170,8.9%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Lebanon,LB,90%,Arabic {O},ar,"4,700,000",86%,90%,90%,bug
+,,,English,en,"2,200,000",40%,,,bug
+,,,Armenian,hy,280,5.2%,,,bug
+,,,Kurdish (Arabic),ku_Arab,93,1.7%,,,bug
+,,,French,fr,20,0.37%,90%,90%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Lesotho,LS,90%,Southern Sotho {O},st,"1,900,000",98%,90%,90%,bug
+,,,English {O},en,530,27%,,,bug
+,,,Zulu,zu,280,14%,,,bug
+,,,Swati,ss,47,2.4%,,,bug
+,,,Xhosa,xh,19,0.99%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Liberia,LR,61%,English {O},en,"4,200,000",83%,61%,61%,bug
+,,,Kpelle,kpe,710,14%,61%,61%,bug
+,,,Vai,vai,130,2.6%,61%,61%,bug
+,,,Mende,men,24,0.48%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,Vai (Latin),vai_Latn,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Libya,LY,90%,Arabic {O},ar,"5,100,000",74%,90%,90%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Liechtenstein,LI,100%,German {O},de,39,100%,100%,100%,bug
+,,,Swiss German {OD},gsw,33,85%,,5.0%,bug
+,,,Walser,wae,"1,3",3.3%,,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Lithuania,LT,100%,Lithuanian {O},lt,"2,300,000",86%,100%,100%,bug
+,,,Russian,ru,"2,200,000",80%,,,bug
+,,,English,en,"1,000,000",38%,,,bug
+,,,German,de,380,14%,100%,100%,bug
+,,,Samogitian,sgs,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Luxembourg,LU,100%,French {O},fr,550,87%,100%,100%,bug
+,,,Luxembourgish {O},lb,420,67%,,5.0%,bug
+,,,German {O},de,400,63%,,100%,bug
+,,,English,en,350,56%,,,bug
+,,,Portuguese,pt,100,16%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Macao SAR China,MO,96%,Traditional Chinese {O},zh_Hant,600,98%,96%,96%,bug
+,,,Portuguese {O},pt,31,5.0%,,,bug
+,,,Chinese,zh,,,,,bug
+,,,English,en,14,2.3%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Madagascar,MG,64%,Malagasy {O},mg,"24,000,000",90%,64%,64%,bug
+,,,French {O},fr,"19,000,000",69%,,,bug
+,,,English {O},en,"4,900,000",18%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Malawi,MW,75%,English {O},en,"13,000,000",63%,75%,75%,bug
+,,,Nyanja {O},ny,,,,,bug
+,,,Tumbuka,tum,"1,800,000",8.4%,,,bug
+,,,Nyasa Tonga,tog,210,0.98%,,,bug
+,,,Zulu,zu,70,0.33%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Malaysia,MY,93%,Malay {O},ms,"24,000,000",75%,93%,93%,bug
+,,,English,en,"6,900,000",21%,93%,93%,bug
+,,,Chinese,zh,"5,600,000",17%,93%,93%,bug
+,,,Tamil,ta,"1,400,000",4.2%,93%,93%,bug
+,,,Iban,iba,820,2.5%,93%,93%,bug
+,,,Javanese,jv,390,1.2%,,,bug
+,,,Negeri Sembilan Malay,zmi,,,,,bug
+,,,Central Dusun,dtp,180,0.56%,,,bug
+,,,Malayalam,ml,49,0.15%,,,bug
+,,,Buginese,bug,26,79%,93%,93%,bug
+,,,Banjar,bjn,"4,9",15%,93%,93%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Maldives,MV,98%,Divehi {O},dv,370,94%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mali,ML,33%,Bambara,bm,"9,000,000",46%,33%,33%,bug
+,,,French {O},fr,,,,,bug
+,,,Maasina Fulfulde,ffm,"1,500,000",7.7%,,,bug
+,,,Soninke,snk,"1,200,000",5.9%,,,bug
+,,,Kita Maninkakan,mwk,980,5.0%,33%,33%,bug
+,,,Koyraboro Senni,ses,660,3.4%,33%,33%,bug
+,,,Tamashek,tmh,410,2.1%,,,bug
+,,,Bambara (N’Ko),bm_Nkoo,390,2.0%,,,bug
+,,,Koyra Chiini,khq,330,1.7%,,,bug
+,,,Tomo Kan Dogon,dtm,220,1.1%,,,bug
+,,,Xaasongaxango,kao,200,1.0%,,,bug
+,,,Arabic,ar,180,0.90%,,,bug
+,,,Bomu,bmq,170,0.86%,,,bug
+,,,Jenaama Bozo,bze,170,0.85%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Malta,MT,92%,Maltese {O},mt,460,100%,92%,92%,bug
+,,,English {O},en,400,88%,,,bug
+,,,Italian,it,260,56%,,,bug
+,,,French,fr,50,11%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Marshall Islands,MH,94%,English {O},en,72,93%,94%,94%,bug
+,,,Marshallese {O},mh,57,73%,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Martinique,MQ,98%,French {O},fr,430,98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mauritania,MR,59%,Arabic {O},ar,"3,400,000",85%,59%,59%,bug
+,,,French,fr,680,17%,,,bug
+,,,Fulah,ff,230,5.7%,,,bug
+,,,Wolof,wo,10,0.25%,,,bug
+,,,Fulah (Adlam),ff_Adlm,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Mauritius,MU,89%,Morisyen,mfe,"1,200,000",90%,89%,89%,bug
+,,,English {O},en,990,72%,,,bug
+,,,Bhojpuri,bho,370,27%,,,bug
+,,,Urdu,ur,72,5.2%,,,bug
+,,,French {O},fr,41,3.0%,,,bug
+,,,Tamil,ta,34,2.5%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mayotte,YT,92%,Comorian,swb,170,88%,92%,92%,bug
+,,,French {O},fr,110,57%,,,bug
+,,,Bushi,buc,45,23%,,,bug
+,,,Swahili,sw,"2,7",1.4%,92%,92%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mexico,MX,94%,Spanish {OD},es,"110,000,000",83%,94%,94%,bug
+,,,English,en,"17,000,000",13%,,,bug
+,,,Yucateco,yua,860,0.67%,,,bug
+,,,Eastern Huasteca Nahuatl,nhe,500,0.39%,,,bug
+,,,Western Huasteca Nahuatl,nhw,,,,,bug
+,,,Central Mazahua,maz,440,0.34%,,,bug
+,,,Central Huasteca Nahuatl,nch,240,0.19%,,,bug
+,,,Seri,sei,900,70%,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Micronesia,FM,89%,English {O},en,58,57%,89%,89%,bug
+,,,Chuukese,chk,31,30%,,,bug
+,,,Pohnpeian,pon,24,23%,,,bug
+,,,Kosraean,kos,8,7.8%,,,bug
+,,,Yapese,yap,"6,6",6.4%,,,bug
+,,,Ulithian,uli,3,2.9%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Moldova,MD,99%,Romanian {O},ro,"2,100,000",63%,99%,99%,bug
+,,,Ukrainian,uk,470,14%,,,bug
+,,,Bulgarian,bg,320,9.4%,,,bug
+,,,Gagauz,gag,110,3.3%,,,bug
+,,,Russian,ru,100,3.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Monaco,MC,99%,French {O},fr,39,99%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mongolia,MN,97%,Mongolian {O},mn,"2,900,000",93%,97%,97%,bug
+,,,Kazakh (Arabic),kk_Arab,230,7.2%,97%,97%,bug
+,,,Chinese,zh,44,1.4%,97%,97%,bug
+,,,Russian,ru,"4,1",0.13%,97%,97%,bug
+,,,Uyghur (Cyrillic),ug_Cyrl,1,32%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Montenegro,ME,98%,Serbian (Latin) {O},sr_Latn,610,100%,98%,98%,bug
+,,,Albanian,sq,48,7.9%,,,bug
+,,,Serbian,sr,30,5.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Montserrat,MS,97%,English {O},en,"3,5",65%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Morocco,MA,67%,Moroccan Arabic,ary,"31,000,000",87%,67%,67%,bug
+,,,Arabic {O},ar,"22,000,000",62%,,,bug
+,,,Standard Moroccan Tamazight,zgh,"7,800,000",22%,67%,67%,bug
+,,,French {OD},fr,"7,100,000",20%,67%,67%,bug
+,,,English,en,"5,000,000",14%,,,bug
+,,,Central Atlas Tamazight {O},tzm,"3,500,000",9.8%,25%,25%,bug
+,,,Tachelhit,shi,"3,100,000",8.7%,67%,67%,bug
+,,,Tachelhit (Latin),shi_Latn,,,,,bug
+,,,Riffian,rif,"1,700,000",4.9%,67%,5.0%,bug
+,,,Riffian (Latin),rif_Latn,,,,,bug
+,,,Spanish,es,23,65%,67%,67%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Mozambique,MZ,56%,Portuguese {O},pt,"8,100,000",27%,56%,56%,bug
+,,,Makhuwa,vmw,"3,900,000",13%,56%,56%,bug
+,,,Ndau,ndc,"3,000,000",9.9%,56%,56%,bug
+,,,Tsonga,ts,"2,400,000",7.9%,,,bug
+,,,Lomwe,ngl,"2,000,000",6.8%,56%,56%,bug
+,,,Sena,seh,"1,400,000",4.6%,56%,56%,bug
+,,,Makhuwa-Meetto,mgh,"1,400,000",4.5%,,,bug
+,,,Ronga,rng,"1,000,000",3.4%,56%,56%,bug
+,,,Nyanja,ny,780,2.6%,56%,56%,bug
+,,,Yao,yao,720,2.4%,,,bug
+,,,Swahili,sw,"9,3",31%,,,bug
+,,,Zulu,zu,"1,8",60%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Myanmar (Burma),MM,93%,Burmese {O},my,"36,000,000",64%,93%,93%,bug
+,,,Shan,shn,"3,600,000",6.4%,,,bug
+,,,Kachin,kac,960,1.7%,93%,93%,bug
+,,,Mon,mnw,850,1.5%,,,bug
+,,,Khamti,kht,"4,2",75%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Namibia,NA,89%,Afrikaans,af,"2,000,000",75%,89%,89%,bug
+,,,Kuanyama,kj,920,35%,,,bug
+,,,Ndonga,ng,550,21%,,,bug
+,,,Nama,naq,290,11%,,,bug
+,,,Herero,hz,240,9.1%,,,bug
+,,,English {O},en,180,7.0%,,,bug
+,,,German,de,24,0.90%,,,bug
+,,,Tswana,tn,15,0.56%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Nauru,NR,99%,English {O},en,"9,4",85%,99%,99%,bug
+,,,Nauru {O},na,"6,9",63%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Nepal,NP,57%,Nepali {O},ne,"13,000,000",44%,57%,57%,bug
+,,,Maithili,mai,"3,300,000",11%,,,bug
+,,,Bhojpuri,bho,"2,100,000",6.8%,,,bug
+,,,Newari,new,"1,000,000",3.3%,57%,57%,bug
+,,,Jumli,jml,970,3.2%,57%,57%,bug
+,,,English,en,910,3.0%,,,bug
+,,,Dotyali,dty,760,2.5%,,,bug
+,,,Awadhi,awa,670,2.2%,57%,57%,bug
+,,,Dangaura Tharu,thl,610,2.0%,57%,57%,bug
+,,,Bantawa,bap,450,1.5%,57%,57%,bug
+,,,Western Tamang,tdg,390,1.3%,,,bug
+,,,Rana Tharu,thr,360,1.2%,,,bug
+,,,Limbu,lif,330,1.1%,57%,57%,bug
+,,,Eastern Magar,mgp,,,,,bug
+,,,Kochila Tharu,thq,300,1.0%,57%,57%,bug
+,,,Western Magar,mrd,250,0.83%,57%,57%,bug
+,,,Bagheli,bfy,160,0.54%,,,bug
+,,,Sherpa,xsr,160,0.52%,57%,57%,bug
+,,,Rajbanshi,rjs,130,0.44%,67%,67%,bug
+,,,Eastern Tamang,taj,130,0.43%,57%,57%,bug
+,,,Hindi,hi,130,0.42%,,,bug
+,,,Gurung,gvr,88,0.29%,,,bug
+,,,Tibetan,bo,73,0.24%,,,bug
+,,,Kathoriya Tharu,tkt,,,,,bug
+,,,Thulung,tdh,36,0.12%,,,bug
+,,,Bangla,bn,29,94%,,,bug
+,,,Mundari (Devanagari),unr_Deva,"5,8",19%,,,bug
+,,,Lepcha,lep,"2,8",93%,57%,57%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Netherlands,NL,99%,Dutch {O},nl,"17,000,000",100%,99%,99%,bug
+,,,English,en,"16,000,000",90%,,,bug
+,,,German,de,"12,000,000",71%,,5.0%,bug
+,,,French,fr,"5,000,000",29%,,99%,bug
+,,,Low German,nds,"1,900,000",11%,,5.0%,bug
+,,,Limburgish,li,950,5.5%,,,bug
+,,,Western Frisian {OR},fy,740,4.3%,,99%,bug
+,,,Gronings,gos,620,3.6%,,5.0%,bug
+,,,Indonesian,id,310,1.8%,,99%,bug
+,,,Zeelandic,zea,240,1.4%,,,bug
+,,,Riffian (Latin),rif_Latn,210,1.2%,,,bug
+,,,Turkish,tr,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+New Caledonia,NC,96%,French {O},fr,280,96%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+New Zealand,NZ,99%,English {OD},en,"4,800,000",98%,99%,99%,bug
+,,,Maori {O},mi,140,2.8%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Nicaragua,NI,78%,Spanish {O},es,"4,800,000",78%,78%,78%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Niger,NE,29%,Hausa,ha,"9,300,000",41%,29%,29%,bug
+,,,French {O},fr,"6,600,000",29%,,,bug
+,,,Zarma,dje,"3,900,000",17%,,,bug
+,,,Central-Eastern Niger Fulfulde,fuq,"1,600,000",7.0%,,,bug
+,,,Tamashek,tmh,"1,400,000",6.0%,,,bug
+,,,Arabic,ar,48,0.21%,,,bug
+,,,Tasawaq,twq,8,35%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Nigeria,NG,61%,English {O},en,"110,000,000",53%,61%,61%,bug
+,,,Nigerian Pidgin,pcm,"45,000,000",21%,,,bug
+,,,Hausa,ha,"28,000,000",13%,,,bug
+,,,Igbo,ig,,,,,bug
+,,,Yoruba {O},yo,,,,,bug
+,,,Nigerian Fulfulde,fuv,"14,000,000",6.7%,20%,20%,bug
+,,,Tiv,tiv,"3,400,000",1.6%,25%,25%,bug
+,,,Efik,efi,"3,000,000",1.4%,61%,61%,bug
+,,,Ibibio,ibb,,,,,bug
+,,,Hausa (Arabic),ha_Arab,"2,100,000",1.0%,61%,61%,bug
+,,,Bini,bin,"1,500,000",0.71%,61%,61%,bug
+,,,Jju,kaj,450,0.21%,,,bug
+,,,Tyap,kcg,200,93%,,,bug
+,,,Arabic,ar,150,71%,61%,61%,bug
+,,,Atsam,cch,45,21%,61%,61%,bug
+,,,Amo,amo,19,87%,,,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Niue,NU,95%,English {O},en,"1,1",56%,95%,95%,bug
+,,,Niuean {O},niu,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Norfolk Island,NF,99%,English {O},en,"1,7",96%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+North Korea,KP,100%,Korean {O},ko,"23,000,000",88%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+North Macedonia,MK,97%,Macedonian {O},mk,"1,400,000",67%,97%,97%,bug
+,,,Albanian {OR},sq,530,25%,,,bug
+,,,Turkish,tr,74,3.5%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Northern Mariana Islands,MP,97%,English {OD},en,50,97%,97%,97%,bug
+,,,Chamorro,ch,"9,3",18%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Norway,NO,100%,Norwegian Bokmål {O},nb,"5,500,000",100%,100%,100%,bug
+,,,Norwegian Nynorsk {O},nn,"1,400,000",25%,,,bug
+,,,Northern Sami {OR},se,16,0.29%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Oman,OM,87%,Arabic {O},ar,"3,800,000",81%,87%,87%,bug
+,,,Baluchi,bal,230,4.9%,87%,87%,bug
+,,,Persian,fa,44,0.94%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Pakistan,PK,55%,Urdu {O},ur,"220,000,000",95%,55%,55%,bug
+,,,Punjabi (Arabic),pa_Arab,"160,000,000",70%,,,bug
+,,,English {O},en,"120,000,000",50%,,,bug
+,,,Lahnda,lah,"93,000,000",40%,,,bug
+,,,Pashto,ps,"35,000,000",15%,55%,55%,bug
+,,,Sindhi,sd,"28,000,000",12%,55%,55%,bug
+,,,Saraiki,skr,"21,000,000",9.1%,1.0%,1.0%,bug
+,,,Baluchi,bal,"8,600,000",3.7%,55%,55%,bug
+,,,Brahui,brh,"3,000,000",1.3%,,,bug
+,,,Northern Hindko,hno,"2,800,000",1.2%,55%,55%,bug
+,,,Persian,fa,"1,500,000",0.66%,55%,55%,bug
+,,,Western Balochi,bgn,"1,300,000",0.57%,,5.0%,bug
+,,,Southern Hindko,hnd,960,0.41%,55%,55%,bug
+,,,Tajik (Arabic),tg_Arab,770,0.33%,55%,55%,bug
+,,,Gujari,gju,470,0.20%,,,bug
+,,,Balti,bft,420,0.18%,55%,55%,bug
+,,,Parkari Koli,kvx,370,0.16%,,,bug
+,,,Khowar,khw,350,0.15%,55%,55%,bug
+,,,Indus Kohistani,mvy,330,0.14%,,,bug
+,,,Kachi Koli,gjk,260,0.11%,55%,55%,bug
+,,,Wadiyara Koli,kxp,,,,,bug
+,,,Kashmiri,ks,160,69%,,,bug
+,,,Torwali,trw,120,53%,,,bug
+,,,Bateri,btv,44,19%,55%,55%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Palau,PW,92%,Palauan {O},pau,16,74%,92%,92%,bug
+,,,English {O},en,"1,9",8.7%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Palestinian Territories,PS,95%,Arabic {O},ar,"4,800,000",100%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Panama,PA,94%,Spanish {O},es,"2,700,000",69%,94%,94%,bug
+,,,English,en,550,14%,,,bug
+,,,Traditional Chinese,zh_Hant,"5,8",0.15%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Papua New Guinea,PG,62%,Tok Pisin {O},tpi,"5,200,000",71%,45%,45%,bug
+,,,English {O},en,"3,600,000",50%,62%,62%,bug
+,,,Hiri Motu {O},ho,150,2.1%,,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Paraguay,PY,94%,Guarani {O},gn,"5,800,000",80%,94%,94%,bug
+,,,Spanish {O},es,230,3.2%,,,bug
+,,,German,de,210,2.9%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Peru,PE,90%,Spanish {O},es,"23,000,000",73%,90%,90%,bug
+,,,Quechua {O},qu,"4,800,000",15%,,,bug
+,,,Aymara,ay,510,1.6%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Philippines,PH,95%,English {O},en,"70,000,000",64%,95%,95%,bug
+,,,Filipino {O},fil,"66,000,000",60%,,,bug
+,,,Spanish,es,"34,000,000",31%,,,bug
+,,,Cebuano {OR},ceb,"26,000,000",24%,13%,13%,bug
+,,,Iloko {OR},ilo,"10,000,000",9.6%,10%,10%,bug
+,,,Hiligaynon {OR},hil,"9,200,000",8.4%,8.0%,8.0%,bug
+,,,Bikol,bik,"3,300,000",3.0%,95%,95%,bug
+,,,Waray {OR},war,"3,200,000",2.9%,,,bug
+,,,West Albay Bikol,fbl,"2,500,000",2.3%,95%,95%,bug
+,,,Pampanga,pam,,,,,bug
+,,,Pangasinan {OR},pag,"1,500,000",1.4%,,,bug
+,,,Maguindanaon {OR},mdh,"1,300,000",1.2%,95%,95%,bug
+,,,Tausug {OR},tsg,"1,200,000",1.1%,95%,95%,bug
+,,,Traditional Chinese,zh_Hant,800,0.73%,,,bug
+,,,Capiznon,cps,720,0.66%,,,bug
+,,,Kinaray-a,krj,430,0.39%,,,bug
+,,,Rinconada Bikol,bto,310,0.28%,,,bug
+,,,Hanunoo,hnn,17,16%,,,bug
+,,,Tagbanwa,tbw,10,92%,36%,36%,bug
+,,,Buhid,bku,8,73%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Pitcairn Islands,PN,99%,English {O},en,46,92%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Poland,PL,100%,Polish {O},pl,"37,000,000",96%,100%,100%,bug
+,,,English,en,"13,000,000",33%,100%,100%,bug
+,,,German {OR},de,"7,300,000",19%,,,bug
+,,,Russian,ru,"6,900,000",18%,100%,100%,bug
+,,,Silesian,szl,500,1.3%,100%,100%,bug
+,,,Belarusian,be,220,0.58%,,,bug
+,,,Ukrainian,uk,150,0.39%,100%,100%,bug
+,,,Kashubian {OR},csb,50,0.13%,100%,100%,bug
+,,,Lower Silesian,sli,12,31%,,,bug
+,,,Lithuanian {OR},lt,8,21%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Portugal,PT,95%,Portuguese {O},pt,"9,900,000",96%,95%,95%,bug
+,,,English,en,"2,800,000",27%,95%,95%,bug
+,,,French,fr,"1,500,000",15%,95%,95%,bug
+,,,Spanish,es,"1,000,000",10%,,,bug
+,,,Galician,gl,14,0.14%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Puerto Rico,PR,90%,Spanish {O},es,"2,800,000",87%,90%,90%,bug
+,,,English {OD},en,"1,600,000",49%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Qatar,QA,96%,Arabic {O},ar,"2,200,000",89%,96%,96%,bug
+,,,Persian,fa,270,11%,,,bug
+,,,Malayalam,ml,"6,6",0.27%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Réunion,RE,88%,French {O},fr,700,89%,88%,88%,bug
+,,,Réunion Creole French,rcf,560,71%,88%,88%,bug
+,,,Tamil,ta,120,15%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Romania,RO,98%,Romanian {O},ro,"19,000,000",90%,98%,98%,bug
+,,,English,en,"6,600,000",31%,98%,98%,bug
+,,,French,fr,"3,600,000",17%,98%,98%,bug
+,,,Spanish,es,"2,100,000",10%,,,bug
+,,,Hungarian,hu,"1,400,000",6.6%,,,bug
+,,,German,de,45,0.21%,,,bug
+,,,Turkish,tr,28,0.13%,98%,98%,bug
+,,,Serbian (Latin),sr_Latn,26,0.12%,,,bug
+,,,Bulgarian,bg,"6,8",32%,98%,98%,bug
+,,,Greek,el,4,19%,,,bug
+,,,Polish,pl,"2,8",13%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Russia,RU,100%,Russian {O},ru,"130,000,000",94%,100%,100%,bug
+,,,Tatar {OR},tt,"2,000,000",1.4%,,,bug
+,,,Bashkir {OR},ba,"1,800,000",1.3%,,,bug
+,,,Chuvash,cv,,,,,bug
+,,,Armenian,hy,"1,200,000",0.84%,50%,50%,bug
+,,,Chechen {OR},ce,940,0.66%,100%,100%,bug
+,,,Avaric {OR},av,550,0.39%,,,bug
+,,,Udmurt {OR},udm,540,0.38%,,,bug
+,,,Mari,chm,520,0.37%,,,bug
+,,,Ossetic,os,450,0.32%,,,bug
+,,,Sakha {OR},sah,,,,,bug
+,,,Kabardian {OR},kbd,440,0.31%,100%,100%,bug
+,,,Erzya {OR},myv,,,,,bug
+,,,Dargwa,dar,370,0.26%,100%,100%,bug
+,,,Buriat,bua,310,0.22%,,,bug
+,,,Moksha {OR},mdf,300,0.21%,100%,100%,bug
+,,,Kumyk {OR},kum,280,0.20%,100%,100%,bug
+,,,Komi {OR},kv,260,0.18%,,,bug
+,,,Lezghian {OR},lez,,,,,bug
+,,,Karachay-Balkar {OR},krc,240,0.17%,,,bug
+,,,Ingush {OR},inh,230,0.16%,,,bug
+,,,Tuvinian {OR},tyv,180,0.13%,,,bug
+,,,Azerbaijani (Cyrillic) {OR},az_Cyrl,130,93%,,,bug
+,,,Adyghe {OR},ady,120,88%,,,bug
+,,,Karelian,krl,120,82%,,,bug
+,,,Lak {OR},lbe,110,78%,,,bug
+,,,Komi-Permyak {OR},koi,64,45%,,,bug
+,,,Western Mari,mrj,30,21%,,,bug
+,,,Southern Altai,alt,20,14%,,,bug
+,,,Finnish,fi,17,12%,100%,100%,bug
+,,,Serbian (Latin),sr_Latn,5,35%,100%,100%,bug
+,,,Veps,vep,"3,5",25%,,,bug
+,,,Mongolian,mn,"2,1",15%,100%,100%,bug
+,,,Ingrian,izh,140,10%,100%,100%,bug
+,,,Church Slavic,cu,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Votic,vot,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Rwanda,RW,71%,Kinyarwanda {O},rw,"9,800,000",77%,71%,71%,bug
+,,,English {O},en,"1,900,000",15%,,,bug
+,,,French {O},fr,"2,3",18%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Samoa,WS,99%,Samoan {O},sm,200,100%,99%,99%,bug
+,,,English {O},en,"4,3",2.1%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+San Marino,SM,96%,Italian {O},it,30,89%,96%,96%,bug
+,,,Esperanto,eo,300,0.88%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+São Tomé & Príncipe,ST,70%,Portuguese {O},pt,180,85%,70%,70%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Saudi Arabia,SA,87%,Arabic {O},ar,"34,000,000",100%,87%,87%,bug
+,,,Najdi Arabic,ars,"1,000,000",3.0%,,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Senegal,SN,50%,Wolof {OD},wo,"11,000,000",70%,50%,50%,bug
+,,,French {O},fr,"6,100,000",39%,100%,100%,bug
+,,,Fulah {OR},ff,"3,300,000",21%,50%,50%,bug
+,,,Serer {OR},srr,"1,700,000",11%,50%,50%,bug
+,,,Jola-Fonyi {OR},dyo,410,2.6%,10%,10%,bug
+,,,Saafi-Saafi {OR},sav,240,1.5%,50%,50%,bug
+,,,Mandjak {OR},mfv,120,0.77%,10%,10%,bug
+,,,Balanta-Ganja {OR},bjt,96,0.61%,100%,100%,bug
+,,,Noon {OR},snf,38,0.24%,10%,10%,bug
+,,,Mankanya {OR},knf,33,0.21%,,,bug
+,,,Bassari {OR},bsc,15,97%,,,bug
+,,,Hassaniyya {OR},mey,"7,2",46%,,,bug
+,,,Ménik {OR},tnr,"3,3",21%,,,bug
+,,,Fulah (Adlam),ff_Adlm,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Serbia,RS,98%,Serbian {O},sr,"6,900,000",99%,98%,98%,bug
+,,,Serbian (Latin) {O},sr_Latn,,,,5.0%,bug
+,,,Albanian,sq,"1,300,000",19%,,98%,bug
+,,,Hungarian {OR},hu,340,4.8%,,,bug
+,,,Romanian {OR},ro,150,2.1%,,,bug
+,,,Croatian {OR},hr,65,0.93%,,,bug
+,,,Slovak {OR},sk,60,0.85%,,,bug
+,,,Ukrainian {OR},uk,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Seychelles,SC,92%,Seselwa Creole French,crs,94,98%,92%,92%,bug
+,,,French {O},fr,58,60%,,,bug
+,,,English {O},en,36,38%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Sierra Leone,SL,43%,Krio,kri,"6,300,000",95%,43%,43%,bug
+,,,English {O},en,"2,300,000",35%,43%,43%,bug
+,,,Mende,men,"1,800,000",27%,,,bug
+,,,Timne,tem,"1,700,000",26%,6.0%,6.0%,bug
+,,,Fulah,ff,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Fulah (Adlam),ff_Adlm,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Singapore,SG,96%,English {O},en,"5,800,000",93%,96%,96%,bug
+,,,Chinese {O},zh,"4,800,000",77%,96%,96%,bug
+,,,Malay {O},ms,870,14%,,,bug
+,,,Tamil {O},ta,130,2.1%,,,bug
+,,,Malayalam,ml,"9,9",0.16%,96%,96%,bug
+,,,Punjabi,pa,"9,3",0.15%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Sint Maarten,SX,99%,English {O},en,30,68%,99%,99%,bug
+,,,Spanish,es,"4,8",11%,99%,99%,bug
+,,,Virgin Islands Creole English,vic,"3,1",7.1%,99%,99%,bug
+,,,Dutch {O},nl,"1,6",3.6%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Slovakia,SK,100%,Slovak {O},sk,"4,900,000",90%,100%,100%,bug
+,,,Czech,cs,"2,600,000",47%,,,bug
+,,,English,en,"1,400,000",26%,,,bug
+,,,German,de,"1,200,000",22%,,,bug
+,,,Hungarian,hu,600,11%,,,bug
+,,,Ukrainian,uk,100,1.9%,,,bug
+,,,Polish,pl,51,0.93%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Slovenia,SI,100%,Slovenian {O},sl,"1,800,000",87%,100%,100%,bug
+,,,Croatian,hr,"1,300,000",61%,100%,100%,bug
+,,,English,en,"1,200,000",59%,100%,100%,bug
+,,,German,de,880,42%,100%,100%,bug
+,,,Hungarian,hu,"9,3",0.44%,100%,100%,bug
+,,,Italian,it,4,0.19%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Solomon Islands,SB,84%,English {O},en,690,100%,84%,84%,bug
+,,,Roviana,rug,"9,6",1.4%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Somalia,SO,38%,Somali {O},so,"9,200,000",78%,38%,38%,bug
+,,,Arabic {O},ar,"4,000,000",34%,99%,99%,bug
+,,,Swahili,sw,240,2.0%,38%,38%,bug
+,,,Oromo,om,49,0.42%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+South Africa,ZA,93%,English {O},en,"18,000,000",31%,99%,99%,bug
+,,,Zulu {OR},zu,"14,000,000",24%,50%,50%,bug
+,,,Xhosa {OR},xh,"10,000,000",18%,,,bug
+,,,Afrikaans {OR},af,"7,300,000",13%,99%,99%,bug
+,,,Northern Sotho {OR},nso,"5,300,000",9.4%,50%,50%,bug
+,,,Tswana {OR},tn,"4,600,000",8.2%,,,bug
+,,,Southern Sotho {OR},st,"4,500,000",7.9%,,,bug
+,,,Tsonga {OR},ts,"2,500,000",4.4%,,,bug
+,,,Swati {OR},ss,"1,500,000",2.7%,,,bug
+,,,Venda {OR},ve,"1,300,000",2.3%,,,bug
+,,,Hindi,hi,"1,100,000",2.0%,69%,69%,bug
+,,,South Ndebele {OR},nr,900,1.6%,50%,50%,bug
+,,,Swahili,sw,1,18%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+South Georgia & South Sandwich Islands,GS,99%,Unknown language,und,20,100%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+South Korea,KR,98%,Korean {O},ko,"52,000,000",100%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+South Sudan,SS,27%,Arabic,ar,"2,900,000",27%,27%,27%,bug
+,,,English {O},en,,,,,bug
+,,,Nuer,nus,590,5.6%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Spain,ES,98%,Spanish {O},es,"50,000,000",99%,98%,98%,bug
+,,,English,en,"12,000,000",24%,98%,98%,bug
+,,,Catalan {OR},ca,"8,500,000",17%,,,bug
+,,,Galician {OR},gl,"3,500,000",7.0%,,,bug
+,,,Basque {OR},eu,"1,000,000",2.0%,,,bug
+,,,Asturian {OR},ast,650,1.3%,,,bug
+,,,Extremaduran,ext,250,0.49%,,,bug
+,,,Aragonese,an,26,52%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Sri Lanka,LK,91%,Sinhala {O},si,"16,000,000",68%,91%,91%,bug
+,,,Tamil {O},ta,"3,400,000",15%,,,bug
+,,,English,en,"2,300,000",10%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Barthélemy,BL,99%,French {O},fr,"6,8",96%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Helena,SH,97%,English {O},en,"5,4",69%,97%,97%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Kitts & Nevis,KN,98%,English {O},en,53,98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Lucia,LC,90%,English {O},en,150,90%,90%,90%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Martin,MF,99%,French {O},fr,33,100%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Pierre & Miquelon,PM,99%,French {O},fr,"5,1",96%,99%,99%,bug
+,,,English,en,190,3.5%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+St. Vincent & Grenadines,VC,96%,English {O},en,97,96%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Sudan,SD,72%,Arabic {O},ar,"28,000,000",61%,72%,72%,bug
+,,,English {O},en,,,,,bug
+,,,Beja,bej,"2,500,000",5.4%,,,bug
+,,,Fur,fvr,"1,200,000",2.7%,,,bug
+,,,Hausa (Arabic),ha_Arab,820,1.8%,,,bug
+,,,Masalit,mls,450,0.99%,72%,72%,bug
+,,,Nobiin,fia,380,0.83%,72%,72%,bug
+,,,Zaghawa,zag,230,0.51%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Suriname,SR,95%,Dutch {O},nl,550,90%,95%,95%,bug
+,,,Sranan Tongo,srn,410,68%,75%,75%,bug
+,,,Traditional Chinese,zh_Hant,"6,7",1.1%,95%,95%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Svalbard & Jan Mayen,SJ,100%,Norwegian Bokmål {O},nb,"1,5",51%,100%,100%,bug
+,,,Russian,ru,"1,2",41%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Sweden,SE,99%,Swedish {O},sv,"9,700,000",95%,99%,99%,bug
+,,,English,en,"8,800,000",86%,,,bug
+,,,Finnish {OR},fi,220,2.2%,,,bug
+,,,Tornedalen Finnish,fit,56,0.55%,,,bug
+,,,Northern Sami,se,34,0.33%,99%,99%,bug
+,,,Tavringer Romani,rmu,"9,5",93%,99%,99%,bug
+,,,Yiddish,yi,3,29%,99%,99%,bug
+,,,Lule Sami,smj,"1,5",15%,99%,99%,bug
+,,,Southern Sami,sma,300,29%,75%,75%,bug
+,,,Interlingua,ia,0.0,0.0%,-NaN%,-NaN%,bug
+,,,add new,,,,0.0%,0.0%,
+Switzerland,CH,99%,German {O},de,"6,100,000",73%,99%,99%,bug
+,,,Swiss German {OD},gsw,"5,500,000",65%,99%,5.0%,bug
+,,,English,en,"5,100,000",61%,99%,99%,bug
+,,,French {O},fr,"1,800,000",21%,99%,99%,bug
+,,,Italian {O},it,360,4.3%,,,bug
+,,,Lombard,lmo,340,4.1%,,5.0%,bug
+,,,Portuguese,pt,290,3.4%,,99%,bug
+,,,Romansh {OR},rm,42,0.50%,99%,99%,bug
+,,,Sinte Romani,rmo,24,0.29%,99%,99%,bug
+,,,Walser,wae,10,0.12%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Syria,SY,84%,Arabic {O},ar,"16,000,000",80%,84%,84%,bug
+,,,Kurdish,ku,"1,600,000",8.0%,,,bug
+,,,French {O},fr,"1,100,000",5.9%,,,bug
+,,,Armenian,hy,350,1.8%,84%,84%,bug
+,,,Syriac,syr,16,84%,84%,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Taiwan,TW,96%,Traditional Chinese {O},zh_Hant,"22,000,000",95%,96%,96%,bug
+,,,Taroko,trv,"4,7",20%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tajikistan,TJ,100%,Tajik {O},tg,"8,900,000",100%,100%,100%,bug
+,,,Russian,ru,"1,100,000",12%,100%,100%,bug
+,,,Persian,fa,69,0.78%,,,bug
+,,,Arabic,ar,980,11%,100%,100%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tanzania,TZ,68%,Swahili {O},sw,"53,000,000",90%,68%,68%,bug
+,,,English {O},en,"40,000,000",69%,,,bug
+,,,Sukuma,suk,"5,100,000",8.7%,,,bug
+,,,Nyamwezi,nym,"1,900,000",3.3%,68%,68%,bug
+,,,Makonde,kde,"1,500,000",2.5%,68%,68%,bug
+,,,Bena,bez,"1,000,000",1.7%,,,bug
+,,,Shambala,ksb,,,,,bug
+,,,Masai,mas,880,1.5%,50%,50%,bug
+,,,Mbunga,mgy,820,1.4%,68%,68%,bug
+,,,Asu,asa,700,1.2%,,,bug
+,,,Langi,lag,510,0.87%,,,bug
+,,,Machame,jmc,430,0.74%,,,bug
+,,,Rombo,rof,,,,,bug
+,,,Vunjo,vun,,,,,bug
+,,,Rwa,rwk,130,0.22%,,,bug
+,,,Sangu,sbp,120,0.20%,1.0%,1.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Thailand,TH,94%,Thai {O},th,"55,000,000",80%,93%,93%,bug
+,,,English,en,"19,000,000",27%,94%,94%,bug
+,,,Northeastern Thai,tts,"17,000,000",24%,,5.0%,bug
+,,,Northern Thai,nod,"6,600,000",9.6%,93%,,bug
+,,,Southern Thai,sou,"5,500,000",8.0%,,5.0%,bug
+,,,Pattani Malay,mfa,"3,400,000",5.0%,94%,94%,bug
+,,,Traditional Chinese,zh_Hant,"1,200,000",1.8%,,,bug
+,,,Northern Khmer,kxm,"1,200,000",1.7%,,,bug
+,,,Kuy,kdt,330,0.48%,50%,50%,bug
+,,,Mon,mnw,120,0.17%,94%,94%,bug
+,,,Shan,shn,66,96%,,,bug
+,,,Western Lawa,lcp,"6,9",10%,25%,25%,bug
+,,,Eastern Lawa,lwl,,,94%,94%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Timor-Leste,TL,58%,Portuguese {O},pt,820,59%,100%,100%,bug
+,,,Tetum {O},tet,,,58%,58%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Togo,TG,60%,French {O},fr,"5,300,000",61%,60%,60%,bug
+,,,Ewe,ee,"1,500,000",17%,,,bug
+,,,Ifè,ife,110,1.3%,15%,15%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tokelau,TK,94%,English {O},en,"1,3",78%,94%,94%,bug
+,,,Tokelau {O},tkl,,,,5.0%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tonga,TO,99%,Tongan {O},to,100,95%,99%,99%,bug
+,,,English {O},en,30,28%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Trinidad & Tobago,TT,99%,English {O},en,"1,100,000",88%,99%,99%,bug
+,,,Spanish,es,"4,1",0.34%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tristan da Cunha,TA,99%,English,en,270,99%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tunisia,TN,79%,Tunisian Arabic,aeb,"11,000,000",90%,79%,79%,bug
+,,,Arabic {O},ar,,,,,bug
+,,,French {O},fr,"8,700,000",74%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Turkey,TR,94%,Turkish {O},tr,"76,000,000",93%,94%,94%,bug
+,,,English,en,"14,000,000",17%,94%,94%,bug
+,,,Kurdish,ku,"4,500,000",5.5%,94%,94%,bug
+,,,Zaza,zza,"1,100,000",1.4%,94%,94%,bug
+,,,Kabardian,kbd,630,0.77%,,,bug
+,,,Azerbaijani,az,610,0.74%,,,bug
+,,,Azerbaijani (Arabic),az_Arab,530,0.65%,,,bug
+,,,Arabic,ar,460,0.56%,,,bug
+,,,Balkan Gagauz Turkish,bgx,380,0.46%,,,bug
+,,,Bulgarian,bg,340,0.42%,,,bug
+,,,Adyghe,ady,320,0.39%,94%,94%,bug
+,,,Kirmanjki,kiu,160,0.19%,94%,94%,bug
+,,,Armenian,hy,46,56%,,,bug
+,,,Georgian,ka,,,,,bug
+,,,Laz,lzz,23,28%,,,bug
+,,,Serbian (Latin),sr_Latn,,,,5.0%,bug
+,,,Albanian,sq,17,21%,,94%,bug
+,,,Abkhazian,ab,4,49%,,,bug
+,,,Greek,el,,,,,bug
+,,,Turoyo,tru,3,37%,,,bug
+,,,Uzbek,uz,2,24%,,,bug
+,,,Kyrgyz (Latin),ky_Latn,"1,1",14%,,,bug
+,,,Kazakh,kk,570,70%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Turkmenistan,TM,100%,Turkmen {O},tk,"3,900,000",70%,100%,100%,bug
+,,,Russian,ru,660,12%,,,bug
+,,,Uzbek,uz,500,9.0%,,,bug
+,,,Kurdish,ku,22,0.40%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Turks & Caicos Islands,TC,98%,English {O},en,55,98%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Tuvalu,TV,95%,Tuvalu {O},tvl,"9,9",87%,95%,95%,bug
+,,,English {O},en,"1,1",9.4%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+U.S. Outlying Islands,UM,99%,English {OD},en,320,100%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+U.S. Virgin Islands,VI,99%,English {OD},en,80,75%,99%,99%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Uganda,UG,73%,Swahili {O},sw,"32,000,000",75%,73%,73%,bug
+,,,Ganda,lg,"5,600,000",13%,,,bug
+,,,Nyankole,nyn,"2,700,000",6.3%,,,bug
+,,,Chiga,cgg,"2,300,000",5.4%,,,bug
+,,,Soga,xog,"2,300,000",5.3%,,,bug
+,,,English {O},en,"1,700,000",3.9%,,,bug
+,,,Teso,teo,,,,,bug
+,,,Lango [Uganda],laj,"1,600,000",3.8%,,,bug
+,,,Acoli,ach,"1,600,000",3.7%,,,bug
+,,,Masaaba,myx,"1,300,000",2.9%,,,bug
+,,,Kinyarwanda,rw,910,2.1%,,,bug
+,,,Tooro,ttj,820,1.9%,,,bug
+,,,Hindi,hi,"2,2",51%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Ukraine,UA,100%,Ukrainian {O},uk,"29,000,000",65%,100%,100%,bug
+,,,Russian {OD},ru,"20,000,000",46%,100%,100%,bug
+,,,Polish,pl,"1,100,000",2.4%,100%,100%,bug
+,,,Yiddish,yi,570,1.3%,,,bug
+,,,Rusyn,rue,530,1.2%,,,bug
+,,,Belarusian,be,360,0.83%,,,bug
+,,,Crimean Turkish,crh,250,0.56%,,,bug
+,,,Romanian,ro,230,0.52%,,,bug
+,,,Bulgarian,bg,220,0.49%,,,bug
+,,,Turkish,tr,180,0.42%,100%,100%,bug
+,,,Hungarian,hu,160,0.37%,100%,100%,bug
+,,,Greek,el,7,16%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+United Arab Emirates,AE,90%,Arabic {O},ar,"7,800,000",78%,90%,90%,bug
+,,,English,en,"5,000,000",50%,,,bug
+,,,Malayalam,ml,700,7.0%,,,bug
+,,,Pashto,ps,290,2.9%,,,bug
+,,,Baluchi,bal,230,2.3%,90%,90%,bug
+,,,Persian,fa,190,1.9%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+United Kingdom,GB,99%,English {O},en,"65,000,000",99%,99%,99%,bug
+,,,French,fr,"12,000,000",19%,,,bug
+,,,German,de,"3,900,000",6.0%,,,bug
+,,,Scots,sco,"1,800,000",2.7%,99%,5.0%,bug
+,,,Punjabi,pa,520,0.79%,99%,99%,bug
+,,,Welsh {OR},cy,510,0.77%,,,bug
+,,,Bangla,bn,440,0.67%,99%,99%,bug
+,,,Traditional Chinese,zh_Hant,360,0.54%,99%,99%,bug
+,,,Sylheti,syl,340,0.51%,,,bug
+,,,Greek,el,220,0.33%,,,bug
+,,,Italian,it,,,,,bug
+,,,Kashmiri,ks,120,0.19%,,,bug
+,,,Scottish Gaelic {OR},gd,65,99%,,5.0%,bug
+,,,Yiddish,yi,32,49%,,99%,bug
+,,,Malayalam,ml,23,35%,,,bug
+,,,Irish {OR},ga,17,26%,,,bug
+,,,Cornish,kw,2,30%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+United States,US,99%,English {OD},en,"320,000,000",96%,99%,99%,bug
+,,,Spanish {OR},es,"32,000,000",9.6%,99%,99%,bug
+,,,Traditional Chinese,zh_Hant,"2,300,000",0.69%,,,bug
+,,,French,fr,"1,900,000",0.56%,,,bug
+,,,German,de,"1,600,000",0.47%,99%,99%,bug
+,,,Filipino,fil,"1,400,000",0.42%,,,bug
+,,,Italian,it,"1,100,000",0.34%,99%,99%,bug
+,,,Vietnamese,vi,,,,,bug
+,,,Korean,ko,"1,000,000",0.30%,,,bug
+,,,Russian,ru,800,0.24%,99%,99%,bug
+,,,Navajo,nv,170,50%,99%,99%,bug
+,,,Yiddish,yi,160,49%,99%,99%,bug
+,,,Pennsylvania German,pdc,130,39%,99%,99%,bug
+,,,Hawaiian {OR},haw,30,89%,,,bug
+,,,Cajun French,frc,28,84%,,,bug
+,,,Cherokee,chr,26,77%,,5.0%,bug
+,,,Central Yupik,esu,21,63%,99%,99%,bug
+,,,Dakota,dak,20,59%,,,bug
+,,,Choctaw,cho,11,33%,99%,99%,bug
+,,,Lakota,lkt,"8,3",25%,99%,99%,bug
+,,,Inupiaq,ik,8,24%,99%,5.0%,bug
+,,,Muscogee,mus,4,12%,,99%,bug
+,,,Caddo,cad,0.0,0.0%,-NaN%,-NaN%,bug
+,,,Chickasaw,cic,,,,,bug
+,,,Osage,osa,,,,,bug
+,,,add new,,,,0.0%,0.0%,
+Uruguay,UY,98%,Spanish {O},es,"3,000,000",88%,98%,98%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Uzbekistan,UZ,99%,Uzbek {O},uz,"26,000,000",85%,99%,99%,bug
+,,,Uzbek (Cyrillic) {O},uz_Cyrl,"4,600,000",15%,99%,99%,bug
+,,,Russian,ru,"4,300,000",14%,99%,99%,bug
+,,,Kara-Kalpak,kaa,490,1.6%,,,bug
+,,,Turkish,tr,230,0.76%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Vanuatu,VU,83%,Bislama {O},bi,270,90%,83%,83%,bug
+,,,English {O},en,250,83%,,,bug
+,,,French {O},fr,150,50%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Vatican City,VA,100%,Italian {OD},it,820,82%,100%,100%,bug
+,,,Latin,la,,,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Venezuela,VE,96%,Spanish {O},es,"23,000,000",82%,96%,96%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Vietnam,VN,93%,Vietnamese {O},vi,"85,000,000",86%,93%,93%,bug
+,,,Traditional Chinese,zh_Hant,"1,100,000",1.1%,,,bug
+,,,Eastern Cham,cjm,88,89%,60%,60%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Wallis & Futuna,WF,50%,Wallisian,wls,"9,5",60%,50%,50%,bug
+,,,French {O},fr,"7,6",48%,,,bug
+,,,East Futuna,fud,"4,8",30%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Western Sahara,EH,50%,Arabic {O},ar,650,100%,50%,50%,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Yemen,YE,65%,Arabic {O},ar,"22,000,000",74%,65%,65%,bug
+,,,English,en,"2,700,000",9.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Territory,Code,Terr. Literacy,Language,Code,Lang. Pop.,Pop.%,Literacy%,Written%,Report Bug
+Zambia,ZM,61%,Bemba,bem,"5,400,000",31%,61%,61%,bug
+,,,English {O},en,"2,800,000",16%,61%,61%,bug
+,,,Nyanja,ny,"2,600,000",15%,61%,61%,bug
+,,,Lozi,loz,"1,000,000",6.0%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
+Zimbabwe,ZW,84%,Shona {O},sn,"12,000,000",81%,84%,84%,bug
+,,,English {O},en,"6,100,000",42%,,,bug
+,,,North Ndebele {O},nd,"1,700,000",12%,,,bug
+,,,Manyika,mxc,950,6.5%,,,bug
+,,,Ndau,ndc,890,6.1%,,,bug
+,,,Kalanga,kck,770,5.3%,,,bug
+,,,Nyanja,ny,280,1.9%,,,bug
+,,,Venda,ve,93,0.64%,,,bug
+,,,Tswana,tn,32,0.22%,,,bug
+,,,add new,,0.0,0.0%,0.0%,0.0%,
