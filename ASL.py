@@ -110,7 +110,7 @@ from sklearn.decomposition import PCA # Análisis de componentes principales''')
     
     st.markdown("")
     
-    st.markdown('##### El dataset utilizado para la parte de data science esta en este [link](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) de kaggle.'
+    st.markdown('##### El dataset utilizado para la parte de data science esta en este [link](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) de kaggle.')
                 
 
 #-----Tratamiento de datos---------------------------------------------------------------------------
