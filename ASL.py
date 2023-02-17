@@ -103,11 +103,17 @@ from sklearn.decomposition import PCA # Análisis de componentes principales''')
     
     st.markdown("")
 
-    #-----Dataset utilizado-----------
-    st.markdown("##### El dataset utilizado esta en este [link](https://unicode-org.github.io/cldr-staging/charts/38/supplemental/territory_language_information.html)")
+    #-----Datasets utilizados-----------
+    st.markdown("##### El dataset utilizado para la parte de data analysis esta en este [link](https://unicode-org.github.io/cldr-staging/charts/38/supplemental/territory_language_information.html)")
     dataset = Image.open('dataset.png')
     st.image(dataset)
-
+    
+    st.markdown("")
+    
+    st.markdown('##### El dataset utilizado para la parte de data science esta en este [link](https://www.kaggle.com/datasets/datamunge/sign-language-mnist) de kaggle.'
+    dataset2 = Image.open('dataset2.png')
+    st.image(dataset2)
+                
 
 #-----Tratamiento de datos---------------------------------------------------------------------------
 with bloques[1]:
