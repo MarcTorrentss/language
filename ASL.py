@@ -247,9 +247,10 @@ with bloques[2]:
     lang_select = st.selectbox("Escoge el idioma",['English', 'Chinese', 'Hindi', 'Spanish', 'Arabic', 'Urdu', 'Bangla', 'French', 'Portuguese', 'Russian'])
     x_lang = lang_select if lang_select != None else 'English'
     x_language = lang[lang['Language'] == x_lang]
+    x_lon = x_language['Longitude'].mean()
 
     # Mapa interactivo: Idioma y localización
-    map = folium.Map(location=[0,0], zoom_start=1.5, tiles='CartoDB positron')
+    map = folium.Map(location=[0,x_lon], zoom_start=1.5, tiles='CartoDB positron')
    
     for lat, lon in zip(x_language['Latitude'], x_language['Longitude']):
         folium.Marker([lat, lon], 
