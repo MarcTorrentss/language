@@ -263,7 +263,7 @@ with bloques[2]:
     st.markdown("<h5>Mostramos el número total de hablantes de los idiomas más populares</h5>", unsafe_allow_html=True)
     i2 = Image.open('i2.png')
     st.image(i2)
-    st.markdown('**Ahora vemos que en términos de población el inglés se ve superado por el chino**.')
+    st.markdown('**Ahora vemos que aun que el inglés sigue siendo el idioma internacional en términos de población el chino y el indio le comen terreno**.')
 
 
 #-----Data science con ASL---------------------------------------------------------------------------
